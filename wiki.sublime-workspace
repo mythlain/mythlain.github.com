@@ -12,42 +12,10 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2011-11-22-linux-command.textile",
+			"file": "run.sh",
 			"settings":
 			{
-				"buffer_size": 93,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pages/development-design/ruby.textile",
-			"settings":
-			{
-				"buffer_size": 4013,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pages/software/ubuntu.textile",
-			"settings":
-			{
-				"buffer_size": 1231,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pages/software/windows.textile",
-			"settings":
-			{
-				"buffer_size": 4131,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pages/other/web_site.textile",
-			"settings":
-			{
-				"buffer_size": 1929,
+				"buffer_size": 22,
 				"line_ending": "Windows"
 			}
 		}
@@ -108,6 +76,12 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-11-ruby-on-rails-mongodb-redis-on-ubuntu-server.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/ruby.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/ubuntu.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/database.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/windows.textile",
+		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/web_site.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-13-base-shell-command.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/_layouts/default.html",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/web-front-end.textile",
@@ -116,18 +90,13 @@
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Global.sublime-settings",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/front-end.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-11-ruby-on-rails-mongodb-redis-on-ubuntu-server.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/references.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/web_site.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/python.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/ruby.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/csharp.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/actionscript.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/android.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/php.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/objectivec.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/database.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/ubuntu.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/assets/style.css",
 		"//192.168.1.6/workspace/wiki.junnan.org/index.html",
 		"//192.168.1.6/workspace/wiki.junnan.org/.gitignore",
@@ -139,7 +108,6 @@
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/articles.html",
 		"//192.168.1.6/workspace/wiki.junnan.org/index.markdown",
 		"//192.168.1.6/workspace/wiki.junnan.org/index.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/windows.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/ios.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/open_source_projects.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/wiki.sublime-workspace",
@@ -326,135 +294,31 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2011-11-22-linux-command.textile",
+					"file": "run.sh",
 					"settings":
 					{
-						"buffer_size": 93,
+						"buffer_size": 22,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								93,
-								93
+								22,
+								22
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pages/development-design/ruby.textile",
-					"settings":
-					{
-						"buffer_size": 4013,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								802,
-								802
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 360.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pages/software/ubuntu.textile",
-					"settings":
-					{
-						"buffer_size": 1231,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pages/software/windows.textile",
-					"settings":
-					{
-						"buffer_size": 4131,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3441,
-								3441
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1584.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "pages/other/web_site.textile",
-					"settings":
-					{
-						"buffer_size": 1929,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1902,
-								1902
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 836.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
