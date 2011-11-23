@@ -1,0 +1,32 @@
+---
+layout: default
+title: Linux - Software
+---
+h1. Ubuntu
+
+h3(#misc). 常用
+* "NeverNote":http://nevernote.sourceforge.net/ - linux下的evernote客户端
+
+h3(#system). 系统
+* "ubuntu-tweak":http://ubuntu-tweak.com/
+* "MyUnity":https://launchpad.net/myunity - 简易的Unity Tweak 工具
+
+h3(#network). 网络
+* "multiget":http://sourceforge.net/projects/multiget/ - 简洁的多线程下载工具
+* "gStm":http://sourceforge.net/projects/gstm - ssh端口转发工具
+
+h3(#entertainment). 娱乐
+* "RhythmCat":http://code.google.com/p/rhythmcat/ - 一款中文不乱码、支持歌词显示、支持卡啦OK模式、支持编辑歌词、支持音频格式转换的音乐播放器。
+* "rhythmbox":http://projects.gnome.org/rhythmbox/ - Rhythmbox is an integrated music management application, originally inspired by Apple's iTunes.
+* "Audacious":http://audacious-media-player.org/ - Audacious is an advanced audio player. It is free
+* "DeaDBeeF":http://deadbeef.sourceforge.net/ - Ultimate Music Player For GNU/Linux
+
+h3(#develop). 开发
+* "giggle":http://live.gnome.org/giggle - 一款不错的Git客户端
+* "bluefish":http://bluefish.openoffice.nl - 强大的代码编辑器
+* "Geany":http://www.geany.org/ - 同样强大的代码编辑器
+* "Sublime Text":http://www.sublimetext.com/x - 体验不错的代码编辑器，不过是收费的
+* "Aptana":http://www.aptana.com - 基于eclipse的代码编辑器
+
+h3(#other). 其他
+* "virtualbox":http://download.virtualbox.org/virtualbox - 虚拟机

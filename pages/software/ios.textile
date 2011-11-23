@@ -1,0 +1,26 @@
+---
+layout: default
+title: iOS - Software
+---
+h1. iOS
+
+h3. Development
+* "Textastic Code Editor":http://www.textasticapp.com/ - Textastic is a fast and versatile text editor with powerful support for syntax highlighting. 
+
+* 微博
+* 腾讯微博
+* 微信
+* QQ
+* QQ空间
+* 人人网
+* Skype
+* Evernote
+* 有道词典
+* 网易公开课
+* 奇艺影视
+* 优酷
+* 用药助手
+* 支付宝
+* QQ斗地主
+* Q拍
+* 美图秀秀

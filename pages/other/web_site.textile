@@ -1,0 +1,54 @@
+---
+layout: default
+title: Web Site
+---
+
+h1. {{ page.title }}
+
+h3. 开发
+* *项目管理*
+** "Basecamp":http://basecamphq.com/ - 37signals作品
+** "Trello":http://trello.com/ - 轻量级团队流程协助管理工具
+** "Todoist":http://todoist.com - 轻量级的GTD管理工具，支持Android、iOS、Symbian、WP7等
+
+* *代码托管*
+** "Google Code":http://code.google.com/hosting/ - 支持SVN、Hg
+** "Github":http://github.com - Online project hosting using Git.
+** "Sourceforge":http://sourceforge.net/ - 支持CVS、SVN
+** "Gitorious":http://gitorious.org - Offers a project hosting solution and an open source graphical interface for git repositories.
+** "CodePlex":http://www.codeplex.com/ - 微软的开源项目托管网站
+** "bitbucket":https://bitbucket.org/ - 支持CVS/SVN/Git/Hg
+** "Project Kenai":http://kenai.com/ - 支持Hg/Git
+** "unfuddle":http://unfuddle.com/ - 支持SVN/Git
+
+* *网络应用托管*
+** "Google App Engine":https://appengine.google.com/
+** "Heroku":http://www.heroku.com/ - 类似Google App Engine的网络应用托管平台，支持Ruby和Python
+
+* *在线IDE*
+** "compilr":http://compilr.com - 支持语言众多
+** "CoderBuddy":http://coderbuddy1.appspot.com - 可以在线创建、编辑、发布google app engine应用的网站
+
+h3. 设计
+* *Color Scheme*
+** "Kuler":http://kuler.adobe.com/#themes/rating?time=30
+** "Color Scheme Designer":http://colorschemedesigner.com/
+** "Color Jack":http://www.colorjack.com/sphere/
+** "Color Hunter":http://www.colorhunter.com/
+** "Hex Color":http://www.2createawebsite.com/build/hex-color-scheme-generator.html
+** "Slayer Office":http://slayeroffice.com/tools/color_palette/
+** "Color Spire":http://www.colorspire.com/
+** "Color Combos":http://www.colorcombos.com/
+** "Dasplankton":http://www.dasplankton.de/ContrastA/
+
+h3. 网络应用
+* "Disqus":http://disqus.com/ - 提供支持社交媒体的评论功能托管
+* "友言":http://uyan.cc/ - 国内版的Disqus
+* "tinyletter":http://tinyletter.com - 提供简洁实用的邮件列表服务
+* "UserVoice":http://uservoice.com/ - 提供访客反馈信息托管
+
+h3. 娱乐
+* *自然音效*
+** "NatureSound":http://naturesound.org/
+** "RainyMood":http://www.rainymood.com/
+** "NatureSoundsForMe":http://naturesoundsfor.me

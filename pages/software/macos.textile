@@ -1,0 +1,102 @@
+---
+layout: default
+title: Mac OS X - Software
+---
+
+h1. Mac OS X
+
+h3(#misc). 常用
+* "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
+* "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
+* "CopyPaste":http://plumamazing.com/mac/copypaste - 剪贴板增强工具
+* "有道翻译":http://cidian.youdao.com/mac/
+
+h3(#entertainment). 媒体
+* "Vox":http://voxapp.didgeroo.com/ - 简洁小巧的音乐播放器
+* "MplayerX":http://mplayerx.org/ - 强大的视频播放器
+* "StreamToMe":http://projectswithlove.com/streamtome/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
+* "Simplier":http://simplier.com/ - 轻量级音乐播放器
+* "Cog":http://cogx.org/ - 音乐播放器
+* "Xee":http://wakaba.c3.cx/s/apps/xee - 看图工具
+
+h3(#network). 网络
+* "Leech":http://manytricks.com/leech/ - 简洁实用的下载工具
+* "Google Chrome":http://www.google.com/chrome
+* "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
+* "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
+* "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
+* "Cyberduck":http://lightcss.com/mac-software-collect/ - 免费的FTP客户端软件
+* "ProxyCap":http://www.proxycap.com/ - 可以让不支持代理的程序支持代理
+* "Mint":http://uedidea.com/mint/ - 新浪客户端
+* "Private Eye":http://radiosilenceapp.com/private-eye - 实时网络连接监控工具
+* "TeamViewer":http://www.teamviewer.com - 远程控制工具
+* "Reeder":http://reederapp.com/ - RSS阅读器
+
+h3(#develop). 开发
+
+* *编辑器/IDE*
+** "Tincta":http://mr-fridge.de/software/tincta/index.php - 文本编辑器
+** "MacVim":http://code.google.com/p/macvim/
+** "AppCode":http://www.jetbrains.com/objc/ - an Objective-C IDE That Makes a Defference
+** "TextMate":http://macromates.com/ - 代码编辑工具
+** "Coda":http://www.panic.com/coda/ - 支持FTP/SFTP等连接方式的代码编辑工具
+*** "Tabster":http://code.google.com/p/tabsterforcoda/ - 能够使Coda支持多行缩进的插件
+** "BBEdit":http://www.barebones.com/products/bbedit/ - BBEdit is the leading professional HTML and text editor for the Macintosh. 
+** "Vico":http://www.vicoapp.com/ - 类似于VIM的可视化代码编辑工具
+** "xmplify":http://xmplifyapp.com/ - XML编辑器
+** "Espresso":http://macrabbit.com/espresso/ 前段web集成开发环境
+** "0xED":http://www.suavetech.com/0xed/0xed.html - 16进制编辑器
+** "Mou":http://mouapp.com/ - markdown编辑器
+
+* *版本管理*
+** "Versions":http://versionsapp.com/ - SVN客户端
+** "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN客户端
+** "Github":http://mac.github.com - 免费的github官方客户端
+** "Gitifier":http://psionides.github.com/gitifier/Github - 代码库监控器
+** "Gitbox":http://www.gitboxapp.com/ - Git客户端
+** "Tower":http://www.git-tower.com/ - Git客户端
+
+* *实用工具*
+** "Codebox":http://www.codeboxapp.com/ - 代码管理工具，可以高亮显示，按语言分类
+
+* *服务器软件*
+** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
+
+* *游戏相关*
+** "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
+
+h3(#design). 设计
+* "img2icns":http://www.img2icnsapp.com/ - 简单实用的图像转成图标小工具
+* "ImageOptim":http://imageoptim.pornel.net/ - 无损图片压缩工具
+* "Pochade":http://www.fuelcollective.com/pochade - 轻巧实用的取色软件
+* "OmniGraffle":http://www.omnigroup.com/products/omnigraffle/ - 经典的思维导图制作软件
+* "Skitch":http://skitch.com/ - 实用免费的图片编辑器
+* "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
+* "Pochade":http://fuelcollective.com/pochade - 拾色器
+
+h3(#productivity). 效率
+* "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
+* "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件
+* "Wunderlist":http://www.6wunderkinder.com/wunderlist/ - 免费跨平台的任务管理工具
+* "Anxiety":http://www.anxietyapp.com/ - 简洁小巧的任务管理工具
+
+h3(#system). 系统工具
+* "TotalFinder":http://totalfinder.binaryage.com/ - 增强型文件管理器
+* "HyperDock":http://hyperdock.bahoom.com/ - 让Dock程序显示预览窗口
+* "Steermouse":http://plentycom.jp/steermouse/ - 鼠标调整工具
+* "LaunchBar":http://www.obdev.at/products/launchbar - 程序启动管理工具
+* "iTerm2":https://github.com/gnachman/iTerm2 - 第三方终端
+* "Growl":http://growl.info/ - 系统托盘提醒工具
+* "DoubleCommand":http://doublecommand.sourceforge.net/ - 系统键位映射修改工具
+* "Kext Helper":http://cheetha.net/ - kext安装工具
+* "PropEdit":http://www.eosgarden.com/en/freeware/propedit/ - 免费的批量文件权限管理软件
+* "NTFSMounter":http://ntfsmounter.com/ - 可读写NTFS格式分区文件的工具
+* "MiniUsage":http://homepage.mac.com/nsekine/SYW/software/english/miniusage/index.html - 系统信息显示菜单
+* "AppCleaner":http://www.freemacsoft.net/AppCleaner/ - 应用卸载清理工具
+* "Shiftit":http://code.google.com/p/shiftit/ - 通过快捷键管理窗口布局的小工具
+* "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
+
+h3(#other). 其他
+* "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
+* "Brew":https://github.com/mxcl/homebrew - 软件包管理新秀
+* "MenuMeters":http://www.ragingmenace.com/software/menumeters - 在托盘栏显示系统硬件信息的工具

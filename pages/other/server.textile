@@ -1,0 +1,31 @@
+---
+layout: default
+title: Server
+---
+
+h1. {{ page.title }}
+
+h3. VPS
+* "Linode":http://www.linode.com/
+* "Chicago VPS":https://www.chicagovps.net/
+* "Homezz":http://homezz.com
+* "prgmr":http://prgmr.com
+* "Ramhost":http://www.ramhost.us/?page=vps/linux-openvz-atlanta-east
+* "ServInt":http://www.servint.net/
+
+h3. Hosting Control System
+* "Virtualmin":http://www.virtualmin.com - 开源虚拟主机管理系统
+* "WHMCS":http://www.whmcs.com/
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />

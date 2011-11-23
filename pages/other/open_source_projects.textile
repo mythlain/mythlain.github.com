@@ -1,0 +1,15 @@
+---
+layout: default
+title: Open Source Projects
+---
+
+h1. {{ page.title }}
+
+h3. Other
+* "ProtocolBuffers":http://code.google.com/apis/protocolbuffers/ - Google公司开发的一种数据描述语言，类似于XML能够将结构化数据序列化，可用于数据存储、通信协议等方面。
+** "Protocol Buffers Development Tools":http://code.google.com/p/protobuf-dt/ - 基于eclipse的ProtocolBuffers开发工具，需要Eclipse3.7及Xtext2.0
+
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />

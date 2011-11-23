@@ -1,0 +1,69 @@
+---
+layout: default
+title: Ruby
+---
+
+h1. Ruby
+
+h3. Web Site
+* "Ruby Programming Language":http://www.ruby-lang.org - Ruby官方网站
+* "Ruby on Rails":http://rubyonrails.org/
+* "ThoughtRails":http://thoughtrails.com/ - Ruby on Rails中文技术分享交流平台
+* "Ruby-China":http://ruby-china.org - Ruby中文社区
+* "ChinaonRails":http://chinaonrails.com/ - Focus on Ruby on Rails, Web2.0, Business, Technic and beyond
+* "The Ruby Toolbox":https://www.ruby-toolbox.com/ - 实用RubyGems排名
+* "RailsTips":http://railstips.org
+
+h3. Tools
+* "RubyInstaller":http://rubyinstaller.org - The easy way to install Ruby on Windows
+* "RailsInstaller":http://railsinstaller.org/ - windows下的一键安装包
+* "errbit":https://github.com/errbit/errbit - Rails日志捕捉工具，支持Hoptoad API
+
+h3. Gems
+* "Mongoid":http://mongoid.org - MongoDB的Object-Document-Mapper (ODM)工具
+* "MongoMapper":https://github.com/jnunemaker/mongomapper - 同上
+* 以下部分内容来自 "ruby-china wiki":http://ruby-china.org/wiki
+* thinreports: "Official Website":http://www.thinreports.org/ - 报表工具，中文支持良好。
+* devise: "Official Website":http://blog.plataformatec.com.br/tag/devise/ / "Github":https://github.com/plataformatec/devise - 快速构建注册、登录、找回密码等功能
+* omniauth: "Github":https://github.com/intridea/omniauth - 实现第三方平台登录
+* will_paginate: "Github":https://github.com/mislav/will_paginate/wiki - 实现分页
+* kaminari: "Github":https://github.com/amatsuda/kaminari - 同上
+* paperclip: "Github":https://github.com/thoughtbot/paperclip - 实现上传
+* carrierwave: "Github":https://github.com/jnicklas/carrierwave - 同上
+* wice_grid: "Official Website":http://leikind.org/wicegrid / "Github":http://leikind.org/pages/wicegrid - 实现表格相关功能
+* thinking-sphinx: "Github":http://freelancing-god.github.com/ts/en/ - 实现基于Sphinx的全文搜索
+* rails-settings-cached: "Github":https://github.com/huacnlee/rails-settings-cached - 将配置信息写入数据库并缓存
+* cancan: "Github":https://github.com/ryanb/cancan - 实现用户功能权限的设定， "Railscasts":http://railscasts.com/episodes/192-authorization-with-cancan
+* redis-objects: "Github":https://github.com/nateware/redis-objects - 实现Redis数据的快速存储，如：页面访问量、Followers等
+* nokogiri: "Official Website":http://nokogiri.org/ / "Github":https://github.com/tenderlove/nokogiri - 实现HTML页面的数据采集
+* formtastic: "Github":https://github.com/justinfrench/formtastic - 实现表单构建，比Rails自带的表单功能更简洁，功能更强大
+* simple_form: "Github":http://github.com/plataformatec/simple_form - 同上
+* whenever: "Github":https://github.com/javan/whenever - 实现类似Linux的Cron定期搜行任务功能
+* resque: "Github":http://github.com/defunkt/resque - 实现后台多任务队列
+* delayed_job: "Github":https://github.com/collectiveidea/delayed_job - 实现后台单任务队列，支持优先级
+* rails-dev-boost: "Github":https://github.com/thedarkone/rails-dev-boost - 实现Rails的缓存机制，加速程序执行速度
+* cells: "Github":https://github.com/apotonick/cells - 实现局部功能到View的生成，支持缓存，比Rails自带的Partials效率好
+* smurf: "Github":http://github.com/thumblemonks/smurf - 实现js、css的压缩，不过Rails3.1已自带Asset Pipeline
+* daemon-spawn: "Github":http://github.com/alexvollmer/daemon-spawn - 实现某些任务使用daemon方式启动，比如管理Resque的启动和重启
+
+h3. References
+* *Ruby*
+** "Ruby使用笔记":http://apidock.com/ruby
+** "Learn Ruby The Hard Way":http://ruby.learncodethehardway.org / "繁体版":http://lrthw.github.com/
+** "Ruby-Doc.org":http://www.ruby-doc.org/
+* *Rails*
+** "如何从零开始学会 Ruby on Rails - 李华顺":http://huacnlee.com/blog/how-to-start-learning-ruby-on-rails
+** "如何从0开始学Ruby on Rails - 漫步":http://readful.com/post/12322300571/0-ruby-on-rails
+** "Ruby on Rails Guides":http://guides.rubyonrails.org/ / "繁体版":http://guides.ruby.tw/rails3/getting_started.html
+** "Ruby on Rails 實戰聖經":http://ihower.tw/rails3/
+** "Rails Documentation":http://api.rubyonrails.org/ - 官方API文档
+** "Rails使用笔记":http://apidock.com/rails
+** Ruby on Rails Tutorial: Learn Rails by Example: "Video":http://ruby.railstutorial.org/ / "Book":http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+** "The Rails 3 Way":http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661
+** "Rails 101 - 火速學會 Ruby on Rails":http://rails-101.logdown.com/
+** "Ruby Monk":http://rubymonk.com/ - An Interactive Platform That Helps You Learn Ruby
+** "RailsCasts":http://railscasts.com - Rails视频教程站
+
+h3. Web Apps
+* "OctoPress":http://octopress.org/ - A blogging framework for hackers.
+* "Gollum":https://github.com/github/gollum - a simple wiki system built on top of Git that powers GitHub Wikis.
