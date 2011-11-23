@@ -5,7 +5,7 @@ title: Ubuntu Server下安装Nginx + PHP5 + MySQL
 
 h1. {{ page.title }}
 
-h3. 环境
+h3. 版本说明
 
 * Ubuntu Server版本：11.10
 * Nginx版本：1.0.5
