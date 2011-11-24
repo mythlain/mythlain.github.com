@@ -12,3 +12,7 @@ bc. $ netstat -lnp
 * 查找执行文件路径，例：nginx
 
 bc. $ whereis nginx
+
+* 查看指定进程数，如httpd
+
+bc. $ ps -ef | grep httpd | wc -l

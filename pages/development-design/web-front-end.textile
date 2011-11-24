@@ -14,6 +14,8 @@ h3. CSS
 ** "DtCSS":http://code.google.com/p/dtcss/ - CSS预处理器
 ** "Turbine":http://turbine.peterkroener.de/index.php - 由PHP驱动的一款CSS预处理器
 ** "Animate.css":http://daneden.me/animate/ - 整合了一些简单动画效果的css，支持自定制
+** "Sass":http://sass-lang.com - 基于ruby的CSS简化解释语言
+** "Compass":http://compass-style.org/ - 基于Sass的框架，提供了更强大的功能，如：CSS3支持、浏览器差异修复、Reset等
 
 * *Tools*
 ** "StyleBot":http://stylebot.me/ - Chrome下的可视化CSS编辑器，功能强大

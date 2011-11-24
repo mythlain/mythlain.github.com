@@ -12,11 +12,11 @@
 	"buffers":
 	[
 		{
-			"file": "run.sh",
+			"file": "pages/development-design/web-front-end.textile",
 			"settings":
 			{
-				"buffer_size": 22,
-				"line_ending": "Windows"
+				"buffer_size": 2284,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -76,6 +76,11 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/other/articles.html",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/run.sh",
+		"//192.168.1.6/workspace/jonaslam.github.com/CNAME",
+		"//192.168.1.6/workspace/jonaslam.github.com/.gitignore",
 		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-11-ruby-on-rails-mongodb-redis-on-ubuntu-server.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/ruby.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/ubuntu.textile",
@@ -299,23 +304,23 @@
 			[
 				{
 					"buffer": 0,
-					"file": "run.sh",
+					"file": "pages/development-design/web-front-end.textile",
 					"settings":
 					{
-						"buffer_size": 22,
+						"buffer_size": 2284,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								22,
-								22
+								422,
+								422
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

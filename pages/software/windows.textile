@@ -40,6 +40,10 @@ h3(#develop). 开发
 *** "Color Theme Test":http://code.google.com/p/vimcolorschemetest/
 *** "闲耘整理的Vim Wiki":http://wiki.hotoo.me/Vim.html
 ** "SciTe":http://www.scintilla.org/
+** "EmEditor":http://www.emeditor.com/
+** "Notepad2":http://www.flos-freeware.ch/notepad2.html - 简单轻便的最适合替代系统notepad的编辑器
+*** "Notepad2-Mod":http://code.google.com/p/notepad2-mod/ - 官方版本的分支，加强了代码支持
+*** 通过 "映像劫持":http://www.portablesoft.org/notepad2-replacement/ 实现Notepad2替换记事本
 
 * *版本控制*
 ** "TortoiseGit":http://code.google.com/p/tortoisegit/ - 实用的Git客户端

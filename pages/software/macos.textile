@@ -98,5 +98,6 @@ h3(#system). 系统工具
 
 h3(#other). 其他
 * "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
+* "Homebrew":http://mxcl.github.com/homebrew/ - 同上
 * "Brew":https://github.com/mxcl/homebrew - 软件包管理新秀
 * "MenuMeters":http://www.ragingmenace.com/software/menumeters - 在托盘栏显示系统硬件信息的工具
