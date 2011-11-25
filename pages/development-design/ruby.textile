@@ -63,6 +63,7 @@ h3. References
 ** "Rails 101 - 火速學會 Ruby on Rails":http://rails-101.logdown.com/
 ** "Ruby Monk":http://rubymonk.com/ - An Interactive Platform That Helps You Learn Ruby
 ** "RailsCasts":http://railscasts.com - Rails视频教程站
+** "Ruby on Rails 3 Essential Training":http://www.lynda.com/Ruby-on-Rails-3-tutorials/essential-training/55960-2.html
 
 h3. Web Apps
 * "OctoPress":http://octopress.org/ - A blogging framework for hackers.

@@ -15,7 +15,7 @@
 			"file": "pages/development-design/web-front-end.textile",
 			"settings":
 			{
-				"buffer_size": 2284,
+				"buffer_size": 2369,
 				"line_ending": "Unix"
 			}
 		}
@@ -307,15 +307,15 @@
 					"file": "pages/development-design/web-front-end.textile",
 					"settings":
 					{
-						"buffer_size": 2284,
+						"buffer_size": 2369,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								422,
-								422
+								67,
+								67
 							]
 						],
 						"settings":

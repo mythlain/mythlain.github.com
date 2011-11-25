@@ -58,6 +58,7 @@ h3(#design). 设计
 * "FastStone Capture":http://www.faststone.org/ - 集截图、拾色、屏幕录像、标尺等于一身的实用设计工具
 * "MarkMan":http://www.getmarkman.com/ - 界面标注工具
 * "Pencil":http://pencil.evolus.vn/ - 跨平台产品原型图设计软件
+* "Balsamiq":http://www.balsamiq.com/ - 同上
 * "FreeMind":http://freemind.sourceforge.net - 免费的思维导图软件
 * "RIOT":http://luci.criosweb.ro/riot/ - 图片优化工具
 * "SuperGIF":http://www.boxtopsoft.com/supergif.html - gif优化工具

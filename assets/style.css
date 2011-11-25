@@ -43,7 +43,14 @@ blockquote p {
 }
 li { padding: 5px 0; }
 
-#logo { font: bold 2em 'Ubuntu'; padding-bottom: 10px; }
+#logo { 
+	font: bold 2em 'Ubuntu'; 
+	padding-bottom: 10px; 
+	text-shadow: 2px 2px 5px #000;
+	-webkit-mask-image: -webkit-gradient(linear,left top,left bottom,from(rgba(0, 0, 0, 1)),to(rgba(0, 0, 0, 0.5)));
+}
+#logo a { color: #fff; }
+#logo a:hover { color: #eee; }
 
 #container { background: #444; }
 
@@ -54,8 +61,6 @@ li { padding: 5px 0; }
 #sidebar ul li ul li { font-weight: normal; }
 #sidebar a { color: #c0c0c0; }
 #sidebar a:hover { color: #fff; }
-#logo a { color: #ddd; }
-#logo a:hover { color: #777; }
 
 #content {
 	width: 700px;

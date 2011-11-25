@@ -27,15 +27,9 @@ h3. Web Framework
 * "Web.py":http://webpy.org/
 * "Bottle":http://bottlepy.org - 单文件小巧web framework
 
-h3. Utility Class
-* "odict":http://dev.pocoo.org/hg/sandbox/raw-file/tip/odict.py - 可以保证元素顺序的Dict
-* "Jinja2":http://www.pocoo.org/projects/jinja2/ - Jinja2 is a popular text templating engine for Python
-* "autumn":https://github.com/luckythetourist/autumn - a Python ORM
-* "WTForms":http://wtforms.simplecodes.com/ - WTForms is a forms validation and rendering library for python web development.
-
-h3. Web Content Management System
+h3. Web Content Management System(CMS)
 * *CMS*
-** "Plone":http://plone.org/ - a Python ORM
+** "Plone":http://plone.org/
 
 * *BBS*
 ** "DjangoBB":https://bitbucket.org/slav0nic/djangobb
@@ -45,13 +39,23 @@ h3. Web Content Management System
 * *WIKI*
 ** "MoinMoinWiki":http://moinmo.in/
 
-h3. Packages
+h3. Packages & Utility Class
 * *CMS*
 ** "APScheduler":http://packages.python.org/APScheduler/ - APScheduler is a light but powerful in-process task scheduler that lets you schedule functions (or any other python callables) to be executed at times of your choosing.
+
 * *Network*
 ** "lxml":http://lxml.de/ - 一款高性能Python XML库，支持XPath、XSLT，可对XML和HTML执行解析、序列化和转换等
+** "requests":http://python-requests.org/ - Requests is an ISC Licensed HTTP library, written in Python, for human beings.
+
+* *Templating Engine*
+** "Jinja2":http://www.pocoo.org/projects/jinja2/ - Jinja2 is a popular text templating engine for Python
+
+* *ORM*
+** "autumn":https://github.com/luckythetourist/autumn - a Python ORM
 
 * *Other*
+** "odict":http://dev.pocoo.org/hg/sandbox/raw-file/tip/odict.py - 可以保证元素顺序的Dict
+** "WTForms":http://wtforms.simplecodes.com/ - WTForms is a forms validation and rendering library for python web development.
 ** "Unofficial Windows Binaries for Python Extension Packages":http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 h3. Other
