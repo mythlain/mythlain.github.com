@@ -46,6 +46,7 @@ h3. 网络应用
 * "友言":http://uyan.cc/ - 国内版的Disqus
 * "tinyletter":http://tinyletter.com - 提供简洁实用的邮件列表服务
 * "UserVoice":http://uservoice.com/ - 提供访客反馈信息托管
+* "ReadTheDocs":http://readthedocs.org - 文档托管平台
 
 h3. 娱乐
 * *自然音效*

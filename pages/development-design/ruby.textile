@@ -20,8 +20,10 @@ h3. Tools
 * "errbit":https://github.com/errbit/errbit - Rails日志捕捉工具，支持Hoptoad API
 
 h3. Gems
-* "Mongoid":http://mongoid.org - MongoDB的Object-Document-Mapper (ODM)工具
-* "MongoMapper":https://github.com/jnunemaker/mongomapper - 同上
+* slim: "Official Website":http://slim-lang.com/ / "Github":https://github.com/stonean/slim - a template language
+* haml: "official Website":http://haml-lang.com / "Github":http://github.com/nex3/haml - 同上
+* mongoid: "Official Website":http://mongoid.org / "Github":https://github.com/mongoid/mongoid - MongoDB的Object-Document-Mapper (ODM)工具
+* mongo_mapper: "Official Website":http://mongomapper.com/ / "Github":https://github.com/jnunemaker/mongomapper - 同上
 * 以下部分内容来自 "ruby-china wiki":http://ruby-china.org/wiki
 * thinreports: "Official Website":http://www.thinreports.org/ - 报表工具，中文支持良好。
 * devise: "Official Website":http://blog.plataformatec.com.br/tag/devise/ / "Github":https://github.com/plataformatec/devise - 快速构建注册、登录、找回密码等功能
@@ -45,6 +47,7 @@ h3. Gems
 * cells: "Github":https://github.com/apotonick/cells - 实现局部功能到View的生成，支持缓存，比Rails自带的Partials效率好
 * smurf: "Github":http://github.com/thumblemonks/smurf - 实现js、css的压缩，不过Rails3.1已自带Asset Pipeline
 * daemon-spawn: "Github":http://github.com/alexvollmer/daemon-spawn - 实现某些任务使用daemon方式启动，比如管理Resque的启动和重启
+* simplecov: "Github":https://github.com/colszowka/simplecov - 代码覆盖率分析工具
 
 h3. References
 * *Ruby*

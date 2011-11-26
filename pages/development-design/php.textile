@@ -37,8 +37,3 @@ h3. Other
 
 h3. Documents
 * "General Style and Syntax":http://codeigniter.com/user_guide/general/styleguide.html
-
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
