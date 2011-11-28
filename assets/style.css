@@ -24,9 +24,8 @@ pre code {
 	font:12px Consolas, Monaco, monospace; 
 	line-height: 1.5em;
 	padding: 10px 20px; 
-	background: #D9D9D9; 
+	background: #e9e9e9; 
 	color: #444; 
-	border-top: 1px solid #b8b8b8;
 	word-wrap: break-word;
 }
 pre { margin-left: 40px; }
@@ -45,7 +44,7 @@ li { padding: 5px 0; }
 
 #container { background: #444 url(/assets/imgs/bg.png); }
 
-#sidebar { float: left; padding: 30px 30px; color: #EEE; text-shadow: 1px 1px 1px #333;}
+#sidebar { float: left; padding: 30px 30px; color: #EEE; }
 #sidebar ul { list-style: none; padding-left: 0; margin-top: 2px; }
 #sidebar ul li { font: 13px 'Ubuntu', 'Helvetica Neue', 'Microsoft YaHei'; font-weight: bold; }
 #sidebar ul li ul { padding-top: 5px; padding-bottom: 5px; list-style: circle; padding-left: 35px; }

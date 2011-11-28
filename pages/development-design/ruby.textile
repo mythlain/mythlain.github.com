@@ -59,6 +59,7 @@ h3. References
 ** "如何从0开始学Ruby on Rails - 漫步":http://readful.com/post/12322300571/0-ruby-on-rails
 ** "Ruby on Rails Guides":http://guides.rubyonrails.org/ / "繁体版":http://guides.ruby.tw/rails3/getting_started.html
 ** "Ruby on Rails 實戰聖經":http://ihower.tw/rails3/
+** "Ruby on Rails新手进阶知识繁体版":http://ruby-taiwan.org/wiki/essential-ruby-rails-knowledge
 ** "Rails Documentation":http://api.rubyonrails.org/ - 官方API文档
 ** "Rails使用笔记":http://apidock.com/rails
 ** Ruby on Rails Tutorial: Learn Rails by Example: "Video":http://ruby.railstutorial.org/ / "Book":http://ruby.railstutorial.org/ruby-on-rails-tutorial-book

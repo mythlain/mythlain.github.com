@@ -12,50 +12,18 @@
 	"buffers":
 	[
 		{
-			"file": "pages/development-design/web-front-end.textile",
+			"file": "_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
 			"settings":
 			{
-				"buffer_size": 2369,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/python.textile",
-			"settings":
-			{
-				"buffer_size": 3266,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/database.textile",
-			"settings":
-			{
-				"buffer_size": 1167,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/ruby.textile",
-			"settings":
-			{
-				"buffer_size": 4396,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/software/windows.textile",
-			"settings":
-			{
-				"buffer_size": 4451,
-				"line_ending": "Unix"
+				"buffer_size": 291,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "assets/style.css",
 			"settings":
 			{
-				"buffer_size": 3409,
+				"buffer_size": 3345,
 				"line_ending": "Unix"
 			}
 		}
@@ -116,6 +84,7 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-23-install-nginx-php5-mysql-on-ubuntu-server.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/other/articles.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/run.sh",
@@ -246,6 +215,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"url",
+			"haml",
 			"**",
 			"h3. (.+)",
 			"h3.(.+)",
@@ -339,23 +310,23 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pages/development-design/web-front-end.textile",
+					"file": "_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
 					"settings":
 					{
-						"buffer_size": 2369,
+						"buffer_size": 291,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								90,
-								90
+								225,
+								225
 							]
 						],
 						"settings":
@@ -370,122 +341,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "pages/development-design/python.textile",
-					"settings":
-					{
-						"buffer_size": 3266,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1790,
-								1790
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 648.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pages/development-design/database.textile",
-					"settings":
-					{
-						"buffer_size": 1167,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pages/development-design/ruby.textile",
-					"settings":
-					{
-						"buffer_size": 4396,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4119,
-								4119
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1152.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "pages/software/windows.textile",
-					"settings":
-					{
-						"buffer_size": 4451,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2878,
-								2878
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1008.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "assets/style.css",
 					"settings":
 					{
-						"buffer_size": 3409,
+						"buffer_size": 3345,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2382,
-								2382
+								354,
+								354
 							]
 						],
 						"settings":
@@ -494,7 +361,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2016.0,
+						"translation.y": 288.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -552,12 +419,28 @@
 				"assets/style.css"
 			],
 			[
-				"windw",
-				"pages/software/windows.textile"
-			],
-			[
 				"ruby",
 				"pages/development-design/ruby.textile"
+			],
+			[
+				"web",
+				"pages/other/web_site.textile"
+			],
+			[
+				"ref",
+				"pages/other/references.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
+				"mac",
+				"pages/software/macos.textile"
+			],
+			[
+				"windw",
+				"pages/software/windows.textile"
 			],
 			[
 				"database",
@@ -582,6 +465,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": false,
-	"side_bar_width": 278.0,
+	"side_bar_width": 400.0,
 	"status_bar_visible": true
 }
