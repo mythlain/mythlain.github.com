@@ -12,18 +12,26 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
+			"file": "pages/development-design/ruby.textile",
 			"settings":
 			{
-				"buffer_size": 291,
-				"line_ending": "Windows"
+				"buffer_size": 5000,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "assets/style.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3345,
+				"buffer_size": 286,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 3351,
 				"line_ending": "Unix"
 			}
 		}
@@ -84,9 +92,15 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Global.sublime-settings",
+		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Textile.sublime-settings",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-23-install-nginx-php5-mysql-on-ubuntu-server.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/other/articles.html",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/run.sh",
 		"//192.168.1.6/workspace/jonaslam.github.com/CNAME",
 		"//192.168.1.6/workspace/jonaslam.github.com/.gitignore",
@@ -102,7 +116,6 @@
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/javascript.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/css.textile",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
-		"/D/Program Files/Sublime Text 2/Data/Packages/User/Global.sublime-settings",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/front-end.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/references.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/python.textile",
@@ -126,7 +139,6 @@
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/open_source_projects.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/wiki.sublime-workspace",
 		"/D/Program Files/Sublime Text 2/Data/Packages/Textile/Textile.tmLanguage",
-		"/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
 		"//192.168.1.6/workspace/wiki.junnan.org/README.textile",
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/actionscript.textile",
 		"/D/workspaces/_webs/junnan.org/www/bindiry/_posts/2011-11-12-virtualbox-ubuntu-development-windows.textile",
@@ -310,28 +322,54 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
+					"file": "pages/development-design/ruby.textile",
 					"settings":
 					{
-						"buffer_size": 291,
+						"buffer_size": 5000,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								225,
-								225
+								5000,
+								5000
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2088.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Django.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -340,28 +378,28 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "assets/style.css",
+					"buffer": 2,
+					"file": "_layouts/default.html",
 					"settings":
 					{
-						"buffer_size": 3345,
+						"buffer_size": 3351,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								354,
-								354
+								525,
+								525
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax": "Packages/Djaneiro/Django.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 288.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -464,7 +502,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 400.0,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
 	"status_bar_visible": true
 }

@@ -3,9 +3,21 @@ layout: default
 title: Ruby
 ---
 
+<div id="charpter">
+h3. Contents
+* "Web Site":#website
+* "Tools":#tools
+* "Gems":#gems
+* "References":#references
+** "Ruby":#references_ruby
+** "Rails":#references_rails
+* "Web Apps":#webapps
+* "Articles":#articles
+</div>
+
 h1. Ruby
 
-h3. Web Site
+h3(#website). Web Site
 * "Ruby Programming Language":http://www.ruby-lang.org - Ruby官方网站
 * "Ruby on Rails":http://rubyonrails.org/
 * "ThoughtRails":http://thoughtrails.com/ - Ruby on Rails中文技术分享交流平台
@@ -14,12 +26,12 @@ h3. Web Site
 * "The Ruby Toolbox":https://www.ruby-toolbox.com/ - 实用RubyGems排名
 * "RailsTips":http://railstips.org
 
-h3. Tools
+h3(#tools). Tools
 * "RubyInstaller":http://rubyinstaller.org - The easy way to install Ruby on Windows
 * "RailsInstaller":http://railsinstaller.org/ - windows下的一键安装包
 * "errbit":https://github.com/errbit/errbit - Rails日志捕捉工具，支持Hoptoad API
 
-h3. Gems
+h3(#gems). Gems
 * slim: "Official Website":http://slim-lang.com/ / "Github":https://github.com/stonean/slim - a template language
 * haml: "official Website":http://haml-lang.com / "Github":http://github.com/nex3/haml - 同上
 * mongoid: "Official Website":http://mongoid.org / "Github":https://github.com/mongoid/mongoid - MongoDB的Object-Document-Mapper (ODM)工具
@@ -49,12 +61,12 @@ h3. Gems
 * daemon-spawn: "Github":http://github.com/alexvollmer/daemon-spawn - 实现某些任务使用daemon方式启动，比如管理Resque的启动和重启
 * simplecov: "Github":https://github.com/colszowka/simplecov - 代码覆盖率分析工具
 
-h3. References
-* *Ruby*
+h3(#references). References
+* *(#references_ruby)Ruby*
 ** "Ruby使用笔记":http://apidock.com/ruby
 ** "Learn Ruby The Hard Way":http://ruby.learncodethehardway.org / "繁体版":http://lrthw.github.com/
 ** "Ruby-Doc.org":http://www.ruby-doc.org/
-* *Rails*
+* *(#references_rails)Rails*
 ** "如何从零开始学会 Ruby on Rails - 李华顺":http://huacnlee.com/blog/how-to-start-learning-ruby-on-rails
 ** "如何从0开始学Ruby on Rails - 漫步":http://readful.com/post/12322300571/0-ruby-on-rails
 ** "Ruby on Rails Guides":http://guides.rubyonrails.org/ / "繁体版":http://guides.ruby.tw/rails3/getting_started.html
@@ -69,6 +81,9 @@ h3. References
 ** "RailsCasts":http://railscasts.com - Rails视频教程站
 ** "Ruby on Rails 3 Essential Training":http://www.lynda.com/Ruby-on-Rails-3-tutorials/essential-training/55960-2.html
 
-h3. Web Apps
+h3(#webapps). Web Apps
 * "OctoPress":http://octopress.org/ - A blogging framework for hackers.
 * "Gollum":https://github.com/github/gollum - a simple wiki system built on top of Git that powers GitHub Wikis.
+
+h3(#articles). Articles
+* "如何在Mac下快速部署 Nginx + Passenger + Rails":http://lvguoning.com/blog/2011/11/27/mac-nginx-passenger-rails/

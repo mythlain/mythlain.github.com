@@ -61,9 +61,8 @@ li { padding: 5px 0; }
 #logo a:hover { color: #ccc; }
 
 #content {
-	width: 700px;
+	min-width: 700px;
 	margin-left: 230px;
-	margin-right: 230px;
 	padding: 12px 30px;
 	background: #F9FBFB url(/assets/imgs/body-bg.png); 
 	color: #444; 
@@ -88,6 +87,29 @@ li { padding: 5px 0; }
 #content ul li a:hover { color:#000; }
 
 #content .posts span { font-size: 11px; color: #666; }
+#content #charpter { 
+	margin: 50px 20px 0 0;
+	background: #eee;
+	padding: 15px 30px 15px 10px;
+	position:fixed;
+	top: 0;
+	left: 900px;
+	filter:alpha(opacity=80);
+	-moz-opacity:0.8;
+	-khtml-opacity: 0.8;
+	opacity: 0.8;
+}
+#content #charpter li ul {
+	margin-left: 0px;
+	padding-left: 20px;
+}
+
+#content #charpter h3 {
+	margin-top:0;
+	margin-bottom: 5px;
+	padding-left: 20px;
+}
+
 .radius {
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;

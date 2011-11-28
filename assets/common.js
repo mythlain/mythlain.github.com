@@ -8,4 +8,11 @@ $(document).ready(function() {
 		$(this).parent().toggleClass('sticky', direction === "down");
 		event.stopPropagation();
 	});
+
+	$('#content').waypoint(function(event, direction) {}, {
+		offset: '-50%'
+	}).find('#charpter').waypoint(function(event, direction) {
+		$(this).parent().toggleClass('sticky', direction === "down");
+		event.stopPropagation();
+	});
 });
