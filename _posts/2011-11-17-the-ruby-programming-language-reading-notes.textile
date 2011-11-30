@@ -136,4 +136,160 @@ a.member? 5
 h4. Symbols
 * 相对于字符串(String)每次新建一个新对象，Symbol对系统开销就很少，最普遍的应用是在Hash上，在Hash已经提到。
 
+h4. Methods
+* Methods定义
 
+bc. def say_hello(name)
+  result = "Hi, " + name
+  return result
+end
+# ruby可以将方法最后一行的运算结果自动return，所以上面方法还可以简化成
+def say_hello(name)
+  "Hi, " + name
+end
+
+h4. Classes
+* Class定义
+
+bc. class Person
+  def initialize(name) # 构造函数
+    @name = name
+  end
+  def say(word)
+    pus "#{word}, #{@name}" #字串相加
+  end
+end
+p1 = Person.new("Bindiry")
+p1.say("Hello")
+# 输出Hello, Bindiry
+
+* 类方法和变量
+
+bc. class Person
+  @@name = "Bindiry"
+  def self.say
+    puts @@name
+  end
+end
+Person.say
+# 输出 Bindiry
+# 所有的实例变量(@开头)和类变量(@@开头)都只能在类内部访问，外部无法存取
+# 为了能够读取实例变量，必须定义方法：
+class Person
+  def initialize(name)
+    @name = name
+  end
+  def name
+    @name
+  end
+  def name=(name)
+    @name = name
+  end
+end
+p = Person.new('Bindiry')
+p.name 
+=> "Bindiry"
+p.name="peny"
+=> "peny"
+# 更简洁的实例变量访问方法
+class Person
+  attr_accessor :name
+end
+# 同样还有只读和只写: attr_reader、attr_writer
+
+* 方法封装
+
+p(((. 类中默认的方法是public的，要设置成private或protected，可以用如下代码：
+
+<pre>
+ class MyClass
+
+  def public_method
+  end
+
+  private
+
+  def private_method1
+  end
+
+  def private_method2
+  end
+  
+  protected
+
+  def protected_method1
+  end
+
+  def protected_method2
+  end
+
+end
+</pre>
+
+p(((. Ruby中的private和protected和其他语言不太一样，都是可以在整个继承体系中被调用。
+
+* 类继承
+
+<pre>
+class Pet
+  attr_accessor :name, :age
+  def say(word)
+    puts "Say: #{word}"
+  end
+end
+
+class Cat < Pet
+  def say(word)
+    puts "Meow~"
+    super
+  end
+end
+
+Cat.new.say("Hi")
+</pre>
+
+h4. 循环体和迭代器
+
+bc. languages = ['Ruby', 'Javascript', 'Perl']
+languages.each do |lang|
+  puts "I love #{lang}!"
+end
+# I Love Ruby
+# I Love Javascript
+# I Love Perl
+
+<pre>
+# 重复三次
+3.times do
+  puts 'Good Job!'
+end
+# Good Job!
+# Good Job!
+# Good Job!
+
+# 从1到9，注：单行可用大括号形式
+1.upto(9) { |x| puts x }
+
+# 使用索引变量
+languages = ['Ruby', 'Javascript', 'Perl']
+languages.each_with_index do |lang, i|
+  puts "#{i}, I love #{lang}!"
+end
+# 0, I Love Ruby
+# 1, I Love Javascript
+# 2, I Love Perl
+</pre>
+
+h4. Module
+
+p(((. Module和Class很相似，也是在内部定义方法(Method)，只是不能用new来创建，多数被当做命名空间(Namespace)来放一些工具方法。
+
+<pre> module MyUtil
+  def self.foobar
+    puts "foobar"
+  end
+end
+
+MyUtil.foobar
+# 输出 foobar
+</pre>

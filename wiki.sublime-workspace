@@ -15,7 +15,7 @@
 			"file": "pages/development-design/ruby.textile",
 			"settings":
 			{
-				"buffer_size": 5000,
+				"buffer_size": 5319,
 				"line_ending": "Unix"
 			}
 		},
@@ -31,7 +31,23 @@
 			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 3351,
+				"buffer_size": 3298,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/style.css",
+			"settings":
+			{
+				"buffer_size": 3702,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/common.js",
+			"settings":
+			{
+				"buffer_size": 597,
 				"line_ending": "Unix"
 			}
 		}
@@ -92,6 +108,7 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/jonaslam.github.com/assets/waypoints.min.js",
 		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
@@ -322,7 +339,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -330,15 +347,15 @@
 					"file": "pages/development-design/ruby.textile",
 					"settings":
 					{
-						"buffer_size": 5000,
+						"buffer_size": 5319,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5000,
-								5000
+								69,
+								69
 							]
 						],
 						"settings":
@@ -346,7 +363,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2088.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -382,21 +399,74 @@
 					"file": "_layouts/default.html",
 					"settings":
 					{
-						"buffer_size": 3351,
+						"buffer_size": 3298,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								525,
-								525
+								2914,
+								2914
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Djaneiro/Django.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1344.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/style.css",
+					"settings":
+					{
+						"buffer_size": 3702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2580,
+								2580
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2112.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/common.js",
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

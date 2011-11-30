@@ -19,7 +19,7 @@ a:hover {
 	color: #000;
 }
 
-pre code { 
+pre, pre code { 
 	display: block; 
 	font:12px Consolas, Monaco, monospace; 
 	line-height: 1.5em;

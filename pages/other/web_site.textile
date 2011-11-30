@@ -29,6 +29,9 @@ h3. 开发
 ** "compilr":http://compilr.com - 支持语言众多
 ** "CoderBuddy":http://coderbuddy1.appspot.com - 可以在线创建、编辑、发布google app engine应用的网站
 
+* *资料相关*
+** "StackParts":http://stackparts.com/ - web开发技术百科
+
 h3. 设计
 * *Color Scheme*
 ** "Kuler":http://kuler.adobe.com/#themes/rating?time=30
@@ -44,6 +47,7 @@ h3. 设计
 h3. 网络应用
 * "Disqus":http://disqus.com/ - 提供支持社交媒体的评论功能托管
 * "友言":http://uyan.cc/ - 国内版的Disqus
+* "评论啦":http://pinglun.la/
 * "tinyletter":http://tinyletter.com - 提供简洁实用的邮件列表服务
 * "UserVoice":http://uservoice.com/ - 提供访客反馈信息托管
 * "ReadTheDocs":http://readthedocs.org - 文档托管平台
