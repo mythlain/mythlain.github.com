@@ -15,6 +15,8 @@ h3. Frameworks
 * "Flourish":http://flourishlib.com/ - 面向对象的没有严格遵循MVC模式的php模块化开发框架
 * "Yaf":http://www.laruence.com/yaf/ - 国人开发的PHP扩展形式的框架，速度快，提供了Bootstrap, 路由, 分发, 视图, 插件, 是个一个全功能的PHP框架。
 * "MicroMVC":http://micromvc.com/
+* "Laravel":http://laravel.com/ - A Clean And Classy PHP Framework
+* "Slim":http://www.slimframework.com/ - a PHP 5 Micro Framework
 
 h3. CMS
 * "WordPress":http://wordpress.org/

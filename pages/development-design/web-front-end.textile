@@ -35,6 +35,7 @@ h3. Javascript
 ** "tablesorter":http://tablesorter.com - 表格排序插件
 ** "Waypoints":http://imakewebthings.github.com/jquery-waypoints/ - 触发页面滚动事件的小插件，很实用
 ** "Topup":http://gettopup.com - 图片显示插件
+** "UItoTop":http://lab.mattvarone.com/projects/jquery/totop/ - 回到页面顶部插件
 
 * *Mobile Web Framework*
 ** "LungoJS":http://www.lungojs.com/
