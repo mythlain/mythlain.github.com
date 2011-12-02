@@ -14,7 +14,7 @@ h3. Contents
 ** "实用工具":#useful
 ** "服务器软件":#server
 ** "游戏相关":#game
-* "设计":#design
+* "设计相关":#design
 * "效率":#productivity
 * "系统相关":#system
 </div>
