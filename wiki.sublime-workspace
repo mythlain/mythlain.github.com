@@ -11,46 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "pages/development-design/ruby.textile",
-			"settings":
-			{
-				"buffer_size": 5319,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 286,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 3298,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/style.css",
-			"settings":
-			{
-				"buffer_size": 3702,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/common.js",
-			"settings":
-			{
-				"buffer_size": 597,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -108,6 +68,9 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-reading-notes.markdown",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/_site/2011/11/17/the-ruby-programming-language-reading-notes.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/assets/waypoints.min.js",
 		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
@@ -339,141 +302,8 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "pages/development-design/ruby.textile",
-					"settings":
-					{
-						"buffer_size": 5319,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								69,
-								69
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 286,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								105,
-								105
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Django.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_layouts/default.html",
-					"settings":
-					{
-						"buffer_size": 3298,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2914,
-								2914
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Django.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1344.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "assets/style.css",
-					"settings":
-					{
-						"buffer_size": 3702,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2580,
-								2580
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2112.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "assets/common.js",
-					"settings":
-					{
-						"buffer_size": 597,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								354,
-								354
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -523,12 +353,12 @@
 		"selected_items":
 		[
 			[
-				"style",
-				"assets/style.css"
+				"ruby",
+				"_site/2011/11/17/the-ruby-programming-language-reading-notes.html"
 			],
 			[
-				"ruby",
-				"pages/development-design/ruby.textile"
+				"style",
+				"assets/style.css"
 			],
 			[
 				"web",
@@ -573,6 +403,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 223.0,
+	"side_bar_width": 242.0,
 	"status_bar_visible": true
 }

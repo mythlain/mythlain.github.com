@@ -3,13 +3,34 @@ layout: default
 title: Mac OS X - Software
 ---
 
+<div id="charpter">
+h3. Contents
+* "常用":#commonly-used
+* "媒体相关":#entertainment
+* "网络相关":#network
+* "开发相关":#development
+** "编辑器/IDE":#editor
+** "版本管理工具":#version
+** "实用工具":#useful
+** "服务器软件":#server
+** "游戏相关":#game
+* "设计":#design
+* "效率":#productivity
+* "系统相关":#system
+</div>
+
 h1. Mac OS X
 
-h3(#misc). 常用
+h3(#commonly-used). 常用
 * "WBIM for Mac OS X":http://www.pawpawsoft.com - 万寿果五笔输入法，支持临时拼音
 * "Keka":http://www.kekaosx.com/ - 简洁实用的压缩软件
 * "CopyPaste":http://plumamazing.com/mac/copypaste - 剪贴板增强工具
 * "有道翻译":http://cidian.youdao.com/mac/
+* "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
+* "Homebrew":http://mxcl.github.com/homebrew/ - 同上
+* "Brew":https://github.com/mxcl/homebrew - 软件包管理新秀
+* "MenuMeters":http://www.ragingmenace.com/software/menumeters - 在托盘栏显示系统硬件信息的工具
+* "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
 
 h3(#entertainment). 媒体
 * "Vox":http://voxapp.didgeroo.com/ - 简洁小巧的音乐播放器
@@ -32,9 +53,9 @@ h3(#network). 网络
 * "TeamViewer":http://www.teamviewer.com - 远程控制工具
 * "Reeder":http://reederapp.com/ - RSS阅读器
 
-h3(#develop). 开发
+h3(#development). 开发
 
-* *编辑器/IDE*
+* *(#editor)编辑器/IDE*
 ** "Tincta":http://mr-fridge.de/software/tincta/index.php - 文本编辑器
 ** "MacVim":http://code.google.com/p/macvim/
 ** "AppCode":http://www.jetbrains.com/objc/ - an Objective-C IDE That Makes a Defference
@@ -48,7 +69,7 @@ h3(#develop). 开发
 ** "0xED":http://www.suavetech.com/0xed/0xed.html - 16进制编辑器
 ** "Mou":http://mouapp.com/ - markdown编辑器
 
-* *版本管理*
+* *(#version)版本管理*
 ** "Versions":http://versionsapp.com/ - SVN客户端
 ** "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN客户端
 ** "Github":http://mac.github.com - 免费的github官方客户端
@@ -56,13 +77,13 @@ h3(#develop). 开发
 ** "Gitbox":http://www.gitboxapp.com/ - Git客户端
 ** "Tower":http://www.git-tower.com/ - Git客户端
 
-* *实用工具*
+* *(#useful)实用工具*
 ** "Codebox":http://www.codeboxapp.com/ - 代码管理工具，可以高亮显示，按语言分类
 
-* *服务器软件*
+* *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
 
-* *游戏相关*
+* *(#game)游戏相关*
 ** "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
 
 h3(#design). 设计
@@ -96,9 +117,3 @@ h3(#system). 系统工具
 * "Shiftit":http://code.google.com/p/shiftit/ - 通过快捷键管理窗口布局的小工具
 * "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
 * "Gas Mask":http://code.google.com/p/gmask/ - 方便实用的hosts文件管理工具
-
-h3(#other). 其他
-* "MacPorts":http://www.macports.org/ - 类似于Linux下apt-get或yum的软件包管理工具
-* "Homebrew":http://mxcl.github.com/homebrew/ - 同上
-* "Brew":https://github.com/mxcl/homebrew - 软件包管理新秀
-* "MenuMeters":http://www.ragingmenace.com/software/menumeters - 在托盘栏显示系统硬件信息的工具
