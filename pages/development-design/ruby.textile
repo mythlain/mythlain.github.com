@@ -36,7 +36,6 @@ h3(#gems). Gems
 * haml: "official Website":http://haml-lang.com / "Github":http://github.com/nex3/haml - 同上
 * mongoid: "Official Website":http://mongoid.org / "Github":https://github.com/mongoid/mongoid - MongoDB的Object-Document-Mapper (ODM)工具
 * mongo_mapper: "Official Website":http://mongomapper.com/ / "Github":https://github.com/jnunemaker/mongomapper - 同上
-* 以下部分内容来自 "ruby-china wiki":http://ruby-china.org/wiki
 * thinreports: "Official Website":http://www.thinreports.org/ - 报表工具，中文支持良好。
 * devise: "Official Website":http://blog.plataformatec.com.br/tag/devise/ / "Github":https://github.com/plataformatec/devise - 快速构建注册、登录、找回密码等功能
 * omniauth: "Github":https://github.com/intridea/omniauth - 实现第三方平台登录
@@ -47,7 +46,9 @@ h3(#gems). Gems
 * wice_grid: "Official Website":http://leikind.org/wicegrid / "Github":http://leikind.org/pages/wicegrid - 实现表格相关功能
 * thinking-sphinx: "Github":http://freelancing-god.github.com/ts/en/ - 实现基于Sphinx的全文搜索
 * rails-settings-cached: "Github":https://github.com/huacnlee/rails-settings-cached - 将配置信息写入数据库并缓存
-* cancan: "Github":https://github.com/ryanb/cancan - 实现用户功能权限的设定， "Railscasts":http://railscasts.com/episodes/192-authorization-with-cancan
+* cancan: "Github":https://github.com/ryanb/cancan / "Railscasts":http://railscasts.com/episodes/192-authorization-with-cancan - 实现用户功能权限的设定， 
+* rails_admin: "Github":https://github.com/sferik/rails_admin - 快速构建后台管理
+* activeadmin: "Official Website":http://activeadmin.info / "Github":https://github.com/gregbell/active_admin / "Railscasts":http://railscasts.com/episodes/284-active-admin - 同上
 * redis-objects: "Github":https://github.com/nateware/redis-objects - 实现Redis数据的快速存储，如：页面访问量、Followers等
 * nokogiri: "Official Website":http://nokogiri.org/ / "Github":https://github.com/tenderlove/nokogiri - 实现HTML页面的数据采集
 * formtastic: "Github":https://github.com/justinfrench/formtastic - 实现表单构建，比Rails自带的表单功能更简洁，功能更强大
@@ -80,6 +81,7 @@ h3(#references). References
 ** "Ruby Monk":http://rubymonk.com/ - An Interactive Platform That Helps You Learn Ruby
 ** "RailsCasts":http://railscasts.com - Rails视频教程站
 ** "Ruby on Rails 3 Essential Training":http://www.lynda.com/Ruby-on-Rails-3-tutorials/essential-training/55960-2.html
+** "ruby-china wiki":http://ruby-china.org/wiki
 
 h3(#webapps). Web Apps
 * "OctoPress":http://octopress.org/ - A blogging framework for hackers.

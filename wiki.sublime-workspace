@@ -20,26 +20,18 @@
 			}
 		},
 		{
-			"file": "pages/development-design/ruby.textile",
+			"file": "_posts/2011-11-28-ruby-on-rails-notes.textile",
 			"settings":
 			{
-				"buffer_size": 5319,
+				"buffer_size": 1008,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "assets/style.css",
+			"file": "_posts/2011-11-22-linux-command.textile",
 			"settings":
 			{
-				"buffer_size": 3707,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 3384,
+				"buffer_size": 386,
 				"line_ending": "Unix"
 			}
 		}
@@ -100,21 +92,25 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/ruby.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/web-front-end.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
+		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/php.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/push.sh",
+		"//192.168.1.6/workspace/jonaslam.github.com/run.sh",
 		"//192.168.1.6/workspace/jonaslam.github.com/assets/common.js",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-reading-notes.markdown",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_site/2011/11/17/the-ruby-programming-language-reading-notes.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/assets/waypoints.min.js",
-		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Global.sublime-settings",
-		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Textile.sublime-settings",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-23-install-nginx-php5-mysql-on-ubuntu-server.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/other/articles.html",
-		"//192.168.1.6/workspace/jonaslam.github.com/run.sh",
 		"//192.168.1.6/workspace/jonaslam.github.com/CNAME",
 		"//192.168.1.6/workspace/jonaslam.github.com/.gitignore",
 		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-11-ruby-on-rails-mongodb-redis-on-ubuntu-server.textile",
@@ -335,7 +331,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -359,25 +355,25 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2448.0,
+						"translation.y": 216.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "pages/development-design/ruby.textile",
+					"file": "_posts/2011-11-28-ruby-on-rails-notes.textile",
 					"settings":
 					{
-						"buffer_size": 5319,
+						"buffer_size": 1008,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								259,
-								259
+								219,
+								219
 							]
 						],
 						"settings":
@@ -392,54 +388,26 @@
 				},
 				{
 					"buffer": 2,
-					"file": "assets/style.css",
+					"file": "_posts/2011-11-22-linux-command.textile",
 					"settings":
 					{
-						"buffer_size": 3707,
+						"buffer_size": 386,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2412,
-								2412
+								134,
+								134
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1944.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_layouts/default.html",
-					"settings":
-					{
-						"buffer_size": 3384,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3071,
-								3071
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1728.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -543,6 +511,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 242.0,
+	"side_bar_width": 337.0,
 	"status_bar_visible": true
 }
