@@ -60,6 +60,9 @@ h3. HTML
 ** "Textile":http://redcloth.org/textile
 *** "在线转换工具":http://www.textism.com/tools/textile/
 
+* *References*
+** "HTML5手册":http://www.w3school.com.cn/html5/index.asp
+
 h3. Design Material
 * "站酷-ZCool":http://www.zcool.com.cn
 * "GlypFish":http://www.glyphish.com

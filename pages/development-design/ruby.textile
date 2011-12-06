@@ -61,6 +61,9 @@ h3(#gems). Gems
 * smurf: "Github":http://github.com/thumblemonks/smurf - 实现js、css的压缩，不过Rails3.1已自带Asset Pipeline
 * daemon-spawn: "Github":http://github.com/alexvollmer/daemon-spawn - 实现某些任务使用daemon方式启动，比如管理Resque的启动和重启
 * simplecov: "Github":https://github.com/colszowka/simplecov - 代码覆盖率分析工具
+* sunspot: "Github":https://github.com/sunspot/sunspot - 全文索引
+* sunspot_rails: "Github":https://github.com/outoftime/sunspot/tree/master/sunspot_rails/
+* sunspot_mongoid: "Github":https://github.com/jugyo/sunspot_mongoid - A Sunspot wrapper for Mongoid.
 
 h3(#references). References
 * *(#references_ruby)Ruby*

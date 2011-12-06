@@ -15,7 +15,7 @@
 			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 4957,
+				"buffer_size": 5314,
 				"line_ending": "Unix"
 			}
 		},
@@ -32,6 +32,46 @@
 			"settings":
 			{
 				"buffer_size": 386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/development-design/ruby.textile",
+			"settings":
+			{
+				"buffer_size": 5819,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/software/linux.textile",
+			"settings":
+			{
+				"buffer_size": 1553,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/development-design/objectivec.textile",
+			"settings":
+			{
+				"buffer_size": 536,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/development-design/android.textile",
+			"settings":
+			{
+				"buffer_size": 238,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/development-design/web-front-end.textile",
+			"settings":
+			{
+				"buffer_size": 2514,
 				"line_ending": "Unix"
 			}
 		}
@@ -236,6 +276,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sunspot",
 			"url",
 			"haml",
 			"**",
@@ -331,7 +372,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -339,15 +380,15 @@
 					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 4957,
+						"buffer_size": 5314,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4957,
-								4957
+								4386,
+								4391
 							]
 						],
 						"settings":
@@ -355,7 +396,7 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 216.0,
+						"translation.y": 2487.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -411,6 +452,136 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/development-design/ruby.textile",
+					"settings":
+					{
+						"buffer_size": 5819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3504,
+								3504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 615.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages/software/linux.textile",
+					"settings":
+					{
+						"buffer_size": 1553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 357.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "pages/development-design/objectivec.textile",
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pages/development-design/android.textile",
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "pages/development-design/web-front-end.textile",
+					"settings":
+					{
+						"buffer_size": 2514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2320,
+								2320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1152.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -462,7 +633,7 @@
 		[
 			[
 				"ruby",
-				"_site/2011/11/17/the-ruby-programming-language-reading-notes.html"
+				"pages/development-design/ruby.textile"
 			],
 			[
 				"style",

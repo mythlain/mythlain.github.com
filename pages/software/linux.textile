@@ -20,6 +20,7 @@ h3(#misc). 常用
 h3(#system). 系统
 * "ubuntu-tweak":http://ubuntu-tweak.com/
 * "MyUnity":https://launchpad.net/myunity - 简易的Unity Tweak 工具
+* "Terminator":http://www.tenshu.net/p/terminator.html - 可以分割多窗口的终端程序
 
 h3(#network). 网络
 * "multiget":http://sourceforge.net/projects/multiget/ - 简洁的多线程下载工具

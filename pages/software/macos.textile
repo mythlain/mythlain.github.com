@@ -11,6 +11,9 @@ h3. Contents
 * "开发相关":#development
 ** "编辑器/IDE":#editor
 ** "版本管理工具":#version
+*** "SVN":#svn
+*** "Git":#git
+*** "Mercurial":#hg
 ** "实用工具":#useful
 ** "服务器软件":#server
 ** "游戏相关":#game
@@ -63,6 +66,7 @@ h3(#development). 开发
 ** "Coda":http://www.panic.com/coda/ - 支持FTP/SFTP等连接方式的代码编辑工具
 *** "Tabster":http://code.google.com/p/tabsterforcoda/ - 能够使Coda支持多行缩进的插件
 ** "BBEdit":http://www.barebones.com/products/bbedit/ - BBEdit is the leading professional HTML and text editor for the Macintosh. 
+** "TextWrangler":http://www.barebones.com/products/textwrangler/ - TextWrangler is the “little brother” to BBEdit
 ** "Vico":http://www.vicoapp.com/ - 类似于VIM的可视化代码编辑工具
 ** "xmplify":http://xmplifyapp.com/ - XML编辑器
 ** "Espresso":http://macrabbit.com/espresso/ 前段web集成开发环境
@@ -70,12 +74,19 @@ h3(#development). 开发
 ** "Mou":http://mouapp.com/ - markdown编辑器
 
 * *(#version)版本管理*
-** "Versions":http://versionsapp.com/ - SVN客户端
-** "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN客户端
-** "Github":http://mac.github.com - 免费的github官方客户端
-** "Gitifier":http://psionides.github.com/gitifier/Github - 代码库监控器
-** "Gitbox":http://www.gitboxapp.com/ - Git客户端
-** "Tower":http://www.git-tower.com/ - Git客户端
+** *(#svn)SVN*
+*** "Versions":http://versionsapp.com/ - SVN客户端
+*** "Cornerstone":http://www.zennaware.com/cornerstone/index.php - SVN客户端
+** *(#git)Git*
+*** "Github":http://mac.github.com - 免费的github官方客户端
+*** "Gitifier":http://psionides.github.com/gitifier/Github - 代码库监控器
+*** "Gitbox":http://www.gitboxapp.com/
+*** "Tower":http://www.git-tower.com/
+*** "GitX==(L)==":http://gitx.laullon.com/
+*** "Gity":http://gityapp.com/
+*** "Gitti":http://www.gittiapp.com/
+** *(#hg)Mercurial*
+*** "MacHg":http://jasonfharris.com/machg/
 
 * *(#useful)实用工具*
 ** "Codebox":http://www.codeboxapp.com/ - 代码管理工具，可以高亮显示，按语言分类
