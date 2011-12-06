@@ -12,66 +12,18 @@
 	"buffers":
 	[
 		{
-			"file": "pages/software/macos.textile",
-			"settings":
-			{
-				"buffer_size": 5314,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2011-11-28-ruby-on-rails-notes.textile",
-			"settings":
-			{
-				"buffer_size": 1008,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2011-11-22-linux-command.textile",
-			"settings":
-			{
-				"buffer_size": 386,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "pages/development-design/ruby.textile",
 			"settings":
 			{
-				"buffer_size": 5819,
+				"buffer_size": 6156,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pages/software/linux.textile",
+			"file": "/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
 			"settings":
 			{
-				"buffer_size": 1553,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/objectivec.textile",
-			"settings":
-			{
-				"buffer_size": 536,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/android.textile",
-			"settings":
-			{
-				"buffer_size": 238,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/development-design/web-front-end.textile",
-			"settings":
-			{
-				"buffer_size": 2514,
+				"buffer_size": 356,
 				"line_ending": "Unix"
 			}
 		}
@@ -132,9 +84,15 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/web-front-end.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/android.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/objectivec.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/linux.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/macos.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-notes.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/ruby.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/web-front-end.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
 		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/php.textile",
@@ -147,7 +105,6 @@
 		"//192.168.1.6/workspace/jonaslam.github.com/assets/waypoints.min.js",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Global.sublime-settings",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Textile.sublime-settings",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-23-install-nginx-php5-mysql-on-ubuntu-server.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/other/articles.html",
@@ -254,11 +211,7 @@
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/front-end.textile",
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/python.textile",
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/css.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/javascript.textile",
-		"/C/Users/Bindiry/Desktop/adf.html",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/wiki.itProject",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/favicon.ico",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/CNAME"
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/javascript.textile"
 	],
 	"find":
 	{
@@ -372,23 +325,23 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pages/software/macos.textile",
+					"file": "pages/development-design/ruby.textile",
 					"settings":
 					{
-						"buffer_size": 5314,
+						"buffer_size": 6156,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4386,
-								4391
+								5304,
+								5304
 							]
 						],
 						"settings":
@@ -396,189 +349,34 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2487.0,
+						"translation.y": 2106.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_posts/2011-11-28-ruby-on-rails-notes.textile",
+					"file": "/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 1008,
+						"buffer_size": 356,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								219,
-								219
+								142,
+								142
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_posts/2011-11-22-linux-command.textile",
-					"settings":
-					{
-						"buffer_size": 386,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								134,
-								134
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pages/development-design/ruby.textile",
-					"settings":
-					{
-						"buffer_size": 5819,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3504,
-								3504
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 615.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "pages/software/linux.textile",
-					"settings":
-					{
-						"buffer_size": 1553,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								585,
-								585
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 357.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "pages/development-design/objectivec.textile",
-					"settings":
-					{
-						"buffer_size": 536,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								169,
-								152
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "pages/development-design/android.textile",
-					"settings":
-					{
-						"buffer_size": 238,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								238,
-								52
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "pages/development-design/web-front-end.textile",
-					"settings":
-					{
-						"buffer_size": 2514,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2320,
-								2320
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1152.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

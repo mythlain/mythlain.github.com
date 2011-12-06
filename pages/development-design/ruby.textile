@@ -7,10 +7,12 @@ title: Ruby
 h3. Contents
 * "Web Site":#website
 * "Tools":#tools
+* "Web Framework":#webframework
 * "Gems":#gems
 * "References":#references
 ** "Ruby":#references_ruby
 ** "Rails":#references_rails
+** "Sinatra":#references_sinatra
 * "Web Apps":#webapps
 * "Articles":#articles
 </div>
@@ -30,6 +32,11 @@ h3(#tools). Tools
 * "RubyInstaller":http://rubyinstaller.org - The easy way to install Ruby on Windows
 * "RailsInstaller":http://railsinstaller.org/ - windows下的一键安装包
 * "errbit":https://github.com/errbit/errbit - Rails日志捕捉工具，支持Hoptoad API
+
+h3(#webframework). Web Framework
+* "Rails":http://rubyonrails.org
+* "Sinatra":http://www.sinatrarb.com/
+** "Padrino":http://www.padrinorb.com/
 
 h3(#gems). Gems
 * slim: "Official Website":http://slim-lang.com/ / "Github":https://github.com/stonean/slim - a template language
@@ -70,6 +77,7 @@ h3(#references). References
 ** "Ruby使用笔记":http://apidock.com/ruby
 ** "Learn Ruby The Hard Way":http://ruby.learncodethehardway.org / "繁体版":http://lrthw.github.com/
 ** "Ruby-Doc.org":http://www.ruby-doc.org/
+** "Ruby Monk":http://rubymonk.com/ - An Interactive Platform That Helps You Learn Ruby
 * *(#references_rails)Rails*
 ** "如何从零开始学会 Ruby on Rails - 李华顺":http://huacnlee.com/blog/how-to-start-learning-ruby-on-rails
 ** "如何从0开始学Ruby on Rails - 漫步":http://readful.com/post/12322300571/0-ruby-on-rails
@@ -81,10 +89,12 @@ h3(#references). References
 ** Ruby on Rails Tutorial: Learn Rails by Example: "Video":http://ruby.railstutorial.org/ / "Book":http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
 ** "The Rails 3 Way":http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661
 ** "Rails 101 - 火速學會 Ruby on Rails":http://rails-101.logdown.com/
-** "Ruby Monk":http://rubymonk.com/ - An Interactive Platform That Helps You Learn Ruby
 ** "RailsCasts":http://railscasts.com - Rails视频教程站
 ** "Ruby on Rails 3 Essential Training":http://www.lynda.com/Ruby-on-Rails-3-tutorials/essential-training/55960-2.html
 ** "ruby-china wiki":http://ruby-china.org/wiki
+* *(#references_sinatra)Sinatra*
+** "Bloc":http://www.trybloc.com/
+** "Darren Jones 的系列教程":http://rubysource.com/author/djones/
 
 h3(#webapps). Web Apps
 * "OctoPress":http://octopress.org/ - A blogging framework for hackers.
