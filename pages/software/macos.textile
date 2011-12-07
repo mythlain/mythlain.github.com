@@ -128,3 +128,4 @@ h3(#system). 系统工具
 * "Shiftit":http://code.google.com/p/shiftit/ - 通过快捷键管理窗口布局的小工具
 * "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
 * "Gas Mask":http://code.google.com/p/gmask/ - 方便实用的hosts文件管理工具
+* "cdto":https://code.google.com/p/cdto/ - 可以在Finder右上角加个Terminal图标，方便在当前路径打开控制台

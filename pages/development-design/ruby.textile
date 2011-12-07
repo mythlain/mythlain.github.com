@@ -37,6 +37,7 @@ h3(#webframework). Web Framework
 * "Rails":http://rubyonrails.org
 * "Sinatra":http://www.sinatrarb.com/
 ** "Padrino":http://www.padrinorb.com/
+* "Ramaze":http://ramaze.net/
 
 h3(#gems). Gems
 * slim: "Official Website":http://slim-lang.com/ / "Github":https://github.com/stonean/slim - a template language
@@ -71,6 +72,7 @@ h3(#gems). Gems
 * sunspot: "Github":https://github.com/sunspot/sunspot - 全文索引
 * sunspot_rails: "Github":https://github.com/outoftime/sunspot/tree/master/sunspot_rails/
 * sunspot_mongoid: "Github":https://github.com/jugyo/sunspot_mongoid - A Sunspot wrapper for Mongoid.
+* meta_search: "Official Website":http://erniemiller.org/projects/metasearch/ / "Github":https://github.com/ernie/meta_search - 实现复杂组合查询
 
 h3(#references). References
 * *(#references_ruby)Ruby*

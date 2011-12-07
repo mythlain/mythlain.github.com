@@ -12,18 +12,18 @@
 	"buffers":
 	[
 		{
-			"file": "pages/development-design/ruby.textile",
+			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 6156,
+				"buffer_size": 5395,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
+			"file": "pages/development-design/ruby.textile",
 			"settings":
 			{
-				"buffer_size": 356,
+				"buffer_size": 6323,
 				"line_ending": "Unix"
 			}
 		}
@@ -84,6 +84,7 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/windows.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/web-front-end.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/android.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/objectivec.textile",
@@ -210,8 +211,7 @@
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/database.textile",
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/front-end.textile",
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/python.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/css.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/javascript.textile"
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/css.textile"
 	],
 	"find":
 	{
@@ -325,23 +325,23 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pages/development-design/ruby.textile",
+					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 6156,
+						"buffer_size": 5395,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5304,
-								5304
+								4635,
+								4635
 							]
 						],
 						"settings":
@@ -349,34 +349,33 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2106.0,
+						"translation.y": 2964.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
+					"file": "pages/development-design/ruby.textile",
 					"settings":
 					{
-						"buffer_size": 356,
+						"buffer_size": 6323,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								142,
-								142
+								4428,
+								4428
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.x": 427.0,
+						"translation.y": 1560.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -430,8 +429,16 @@
 		"selected_items":
 		[
 			[
+				"window",
+				"pages/software/windows.textile"
+			],
+			[
 				"ruby",
 				"pages/development-design/ruby.textile"
+			],
+			[
+				"macos",
+				"pages/software/macos.textile"
 			],
 			[
 				"style",
