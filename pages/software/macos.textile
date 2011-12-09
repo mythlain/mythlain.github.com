@@ -67,6 +67,7 @@ h3(#development). 开发
 ** "Coda":http://www.panic.com/coda/ - 支持FTP/SFTP等连接方式的代码编辑工具
 *** "Tabster":http://code.google.com/p/tabsterforcoda/ - 能够使Coda支持多行缩进的插件
 ** "BBEdit":http://www.barebones.com/products/bbedit/ - BBEdit is the leading professional HTML and text editor for the Macintosh. 
+** "Chocolat":http://chocolatapp.com/ - 功能类似textmate的编辑器
 ** "TextWrangler":http://www.barebones.com/products/textwrangler/ - TextWrangler is the “little brother” to BBEdit
 ** "Vico":http://www.vicoapp.com/ - 类似于VIM的可视化代码编辑工具
 ** "xmplify":http://xmplifyapp.com/ - XML编辑器

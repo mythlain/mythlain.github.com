@@ -14,6 +14,12 @@ h3. 发行版
 * "openSUSE":http://www.opensuse.org
 * "Ubuntu":http://www.ubuntu.com
 
+h3. 桌面环境
+* "Gnome":http://www.gnome.org/
+* "KDE":http://www.kde.org/
+* "Xface":http://www.xfce.org/
+* "LXDE":http://lxde.org/
+
 h3(#misc). 常用
 * "NeverNote":http://nevernote.sourceforge.net/ - linux下的evernote客户端
 
