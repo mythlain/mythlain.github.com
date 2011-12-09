@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>pages/development-design/ruby.textile</string>
+	<string>pages/software/macos.textile</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -35,14 +35,29 @@
 			<key>firstVisibleLine</key>
 			<integer>58</integer>
 		</dict>
+		<key>pages/software/macos.textile</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>199</integer>
+				<key>line</key>
+				<integer>122</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>99</integer>
+		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
 		<string>pages/development-design/ruby.textile</string>
+		<string>pages/software/macos.textile</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{720, 188}, {1153, 755}}</string>
+	<string>{{363, 120}, {1153, 755}}</string>
 </dict>
 </plist>
