@@ -48,6 +48,7 @@ h3(#network). 网络
 * "Leech":http://manytricks.com/leech/ - 简洁实用的下载工具
 * "Google Chrome":http://www.google.com/chrome
 * "Shimo":http://www.chungwasoft.com/shimo/ - 支持VPN和SSH的客户端软件（支持开机启动和自动连接）
+* "SSH Tunnel Manager":http://itunes.apple.com/us/app/ssh-tunnel-manager/id424470626?l=fr&mt=12 - Shimo无法创建SSH连接时要先安装这个
 * "Transmit":http://www.panic.com/transmit/ - FTP客户端软件
 * "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
 * "Cyberduck":http://lightcss.com/mac-software-collect/ - 免费的FTP客户端软件
@@ -122,6 +123,8 @@ h3(#system). 系统工具
 * "Steermouse":http://plentycom.jp/steermouse/ - 鼠标调整工具
 * "LaunchBar":http://www.obdev.at/products/launchbar - 程序启动管理工具
 * "iTerm2":https://github.com/gnachman/iTerm2 - 第三方终端
+* "oh-my-zsh":https://github.com/robbyrussell/oh-my-zsh - zsh的安装配置文件， "安装方法":http://www.yangzhiping.com/tech/zsh-oh-my-zsh.html
+** "sjl-oh-myzsh":https://github.com/sjl/oh-my-zsh - 官方oh-my-zsh的一个分支, "安装介绍1":http://leeiio.me/bash-to-zsh-for-mac/ / "安装介绍2":http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/#screenshots
 * "Growl":http://growl.info/ - 系统托盘提醒工具
 * "DoubleCommand":http://doublecommand.sourceforge.net/ - 系统键位映射修改工具
 * "Kext Helper":http://cheetha.net/ - kext安装工具
