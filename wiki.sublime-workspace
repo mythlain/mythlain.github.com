@@ -4,234 +4,53 @@
 		"selected_items":
 		[
 			[
-				"for",
-				"for: for in"
+				"ht",
+				"html"
+			],
+			[
+				"body",
+				"body"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "pages/software/macos.textile",
-			"settings":
-			{
-				"buffer_size": 5513,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/software/windows.textile",
-			"settings":
-			{
-				"buffer_size": 4340,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/software/sublime-text.textile",
-			"settings":
-			{
-				"buffer_size": 3738,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
-			"settings":
-			{
-				"buffer_size": 940,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 76.0,
+		"height": 0.0,
 		"selected_items":
 		[
-			[
-				"global",
-				"Preferences: User Global Settings"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"pack",
-				"Package Control: Add Repository"
-			],
-			[
-				"package",
-				"Package Control: Remove Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Install Package"
-			],
-			[
-				"",
-				"Set Syntax: HTML (Rails)"
-			],
-			[
-				"packa",
-				"Preferences: Browse Packages"
-			]
 		],
-		"width": 512.0
+		"width": 0.0
 	},
 	"console":
 	{
-		"height": 129.0
+		"height": 0.0
 	},
 	"distraction_free":
 	{
 		"menu_visible": true,
 		"show_minimap": false,
-		"show_open_files": true,
+		"show_open_files": false,
 		"show_tabs": false,
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
 	"file_history":
 	[
-		"/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
-		"/D/Program Files/Sublime Text 2/Data/Packages/Default/Global.sublime-settings",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/windows.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/web-front-end.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/android.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/objectivec.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/linux.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/macos.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-notes.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/ruby.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
-		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/php.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/push.sh",
-		"//192.168.1.6/workspace/jonaslam.github.com/run.sh",
-		"//192.168.1.6/workspace/jonaslam.github.com/assets/common.js",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-reading-notes.markdown",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/_site/2011/11/17/the-ruby-programming-language-reading-notes.html",
-		"//192.168.1.6/workspace/jonaslam.github.com/assets/waypoints.min.js",
-		"/D/Program Files/Sublime Text 2/Data/Packages/User/Global.sublime-settings",
-		"/D/Program Files/Sublime Text 2/Data/Packages/User/Textile.sublime-settings",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-23-install-nginx-php5-mysql-on-ubuntu-server.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/other/articles.html",
-		"//192.168.1.6/workspace/jonaslam.github.com/CNAME",
-		"//192.168.1.6/workspace/jonaslam.github.com/.gitignore",
-		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-11-ruby-on-rails-mongodb-redis-on-ubuntu-server.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/ruby.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/ubuntu.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/database.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/windows.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/web_site.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-13-base-shell-command.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/_layouts/default.html",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/web-front-end.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/javascript.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/css.textile",
-		"/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/front-end.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/references.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/python.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/csharp.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/actionscript.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/android.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/php.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/development-design/objectivec.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/assets/style.css",
-		"//192.168.1.6/workspace/wiki.junnan.org/index.html",
-		"//192.168.1.6/workspace/wiki.junnan.org/.gitignore",
-		"//192.168.1.6/workspace/wiki.junnan.org/assets/common.js",
-		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/css/style.css",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/macos.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/articles.html",
-		"//192.168.1.6/workspace/wiki.junnan.org/index.markdown",
-		"//192.168.1.6/workspace/wiki.junnan.org/index.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/ios.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/open_source_projects.textile",
-		"//192.168.1.6/workspace/wiki.junnan.org/wiki.sublime-workspace",
-		"/D/Program Files/Sublime Text 2/Data/Packages/Textile/Textile.tmLanguage",
-		"//192.168.1.6/workspace/wiki.junnan.org/README.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/actionscript.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_posts/2011-11-12-virtualbox-ubuntu-development-windows.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/ruby.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/other/web_site.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/windows.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/ubuntu.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/front-end.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/python.textile",
-		"/D/workspaces/_actionscript/games/RotateRoll2/src/scenes/MainScene.as",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/development-design/php.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_layouts/default.html",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/css/style.css",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/other/references.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/database.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_posts/2011-11-13-base-shell-command.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_posts/2011-11-11-ruby-on-rails-mongodb-redis-on-ubuntu-server.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/ruby.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_layouts/post.html",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/other/articles.html",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/other/open_source_projects.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/front-end.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/javascript.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_config.yml",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/other/test.markdown",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/other/test.md",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_posts/2011-11-12-ruby-on-rails-virtualbox-windows.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/other/articles.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_posts/2011-11-11-ruby-on-rails-mongodb-on-ubuntu-server.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_posts/2011-11-11-ruby-on-rails-mongodb-on-ubuntu-server.md",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/other/article.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_posts/ruby_on_rails_mongodb_on_ubuntu_server.md",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/_layouts/article.html",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/articles/ruby_on_rails_mongodb_on_ubuntu_server.md",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/actionscript.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/android.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/articles/ruby_on_rails_on_ubuntu_server.md",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/ruby.markdown",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/actionscript.markdown",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/windows.markdown",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/ubuntu.markdown",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/index.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/macos.markdown",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/macos.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/database.markdown",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/python.markdown",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/ios.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/python.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/php.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/php.markdown",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/objectivec.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/csharp.markdown",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-development/csharp.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/.gitignore",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/software/other.textile",
-		"/D/Program Files/Sublime Text 2/Data/Packages/Default/Base File.sublime-settings",
-		"/C/Users/Bindiry/Desktop/111.as",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/wiki.sublime-project",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/php.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/objectivec.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/csharp.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/actionscript.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/database.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/front-end.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/python.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/css.textile"
+		"/Users/bindiry/workspaces/wiki/.gitignore",
+		"/Users/bindiry/workspaces/ruby/yinse/.gitignore",
+		"/Users/bindiry/Desktop/aaa.html",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -245,52 +64,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"sunspot",
-			"url",
-			"haml",
-			"**",
-			"h3. (.+)",
-			"h3.(.+)",
-			"	});",
-			"});",
-			"\n",
-			"h2.",
-			"h2(",
-			"#{",
-			"as3isolib",
-			"programming-development",
-			"测试一下",
-			"disqus_url",
-			"disqus_url ",
-			"sudo ",
-			")",
-			"[",
-			"](",
-			"**",
-			"***",
-			"* *(.+)*",
-			"\"(.+)\":(.+)",
-			"\"(.+)\":(.+) - ",
-			"\"(.+)\":(.+)",
-			"\"(.+)\":(.+) - ",
-			"**",
-			"\"(.+)\":(.+)",
-			"\"(.+)\":(.+) - ",
-			"\"(.+)\":(.+)",
-			"\"(.+)\":(.+) - ",
-			"\"(.+)\":(.+)",
-			"\"(.+)\":(.+) - ",
-			"\"(.+)\":(http://.+) - ",
-			"\"(.+)\":(http://.+)",
-			"\"(.+)\":(http://.+) - ",
-			"\"(.+)\":(http://.+)",
-			"\"(.+)\":(http://.+) - ",
-			"h3. (.+)",
-			"\"(.+)\":(http://.+)",
-			"\"(.+)\":(http://.+) - ",
-			"\"",
-			"\":",
-			"							"
+			"+l",
+			"l",
+			"ctrl"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -298,39 +74,7 @@
 		"regex": false,
 		"replace_history":
 		[
-			"***",
-			"* *$1*",
-			"h3.",
-			"h3(",
-			"development-design",
-			"test a little",
-			"",
-			"\"",
-			"\":",
-			"    *",
-			"        *",
-			"* **(.+)**",
-			"[$1]($2)",
-			"[$1]($2) - ",
-			"[$1]($2)",
-			"[$1]($2) - ",
-			"    *",
-			"[$1]($2)",
-			"[$1]($2) - ",
-			"[$1]($2)",
-			"[$1]($2) - ",
-			"[$1]($2)",
-			"[$1]($2) - ",
-			"[$1]($2)",
-			"[$1]($2) - ",
-			"[$1]($2)",
-			"[$1]($2) - ",
-			"$1\\n\n$1\\n\n$1\\n\n$1 \\n ---------------------",
-			"$1\\n\n$1\\n\n$1\\n\n$1\\n---------------------",
-			"[$1]($2)",
-			"[$1]($2) - ",
-			"[",
-			"]("
+			"command"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -341,123 +85,18 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "pages/software/macos.textile",
-					"settings":
-					{
-						"buffer_size": 5513,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1797,
-								1797
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pages/software/windows.textile",
-					"settings":
-					{
-						"buffer_size": 4340,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1291,
-								1291
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 648.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pages/software/sublime-text.textile",
-					"settings":
-					{
-						"buffer_size": 3738,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								573,
-								573
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 288.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 940,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								940,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 0.0
 	},
 	"input":
 	{
-		"height": 33.0
+		"height": 0.0
 	},
 	"layout":
 	{
@@ -482,13 +121,9 @@
 		]
 	},
 	"menu_visible": true,
-	"output.sftp":
-	{
-		"height": 0.0
-	},
 	"replace":
 	{
-		"height": 70.0
+		"height": 78.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -496,77 +131,21 @@
 		"height": 0.0,
 		"selected_items":
 		[
-			[
-				"2011",
-				"_posts/2011-11-22-linux-command.textile"
-			],
-			[
-				"win",
-				"pages/software/windows.textile"
-			],
-			[
-				"window",
-				"pages/software/windows.textile"
-			],
-			[
-				"ruby",
-				"pages/development-design/ruby.textile"
-			],
-			[
-				"macos",
-				"pages/software/macos.textile"
-			],
-			[
-				"style",
-				"assets/style.css"
-			],
-			[
-				"web",
-				"pages/other/web_site.textile"
-			],
-			[
-				"ref",
-				"pages/other/references.textile"
-			],
-			[
-				"php",
-				"pages/development-design/php.textile"
-			],
-			[
-				"mac",
-				"pages/software/macos.textile"
-			],
-			[
-				"windw",
-				"pages/software/windows.textile"
-			],
-			[
-				"database",
-				"pages/development-design/database.textile"
-			],
-			[
-				"pyhon",
-				"pages/programming-language/python.textile"
-			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 0.0,
 		"selected_items":
 		[
-			[
-				"",
-				"//192.168.1.6/workspace/yinse/yinse.sublime-project"
-			]
 		],
-		"width": 380.0
+		"width": 0.0
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 337.0,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
 	"status_bar_visible": true
 }

@@ -91,6 +91,7 @@ h3(#references). References
 ** Ruby on Rails Tutorial: Learn Rails by Example: "Video":http://ruby.railstutorial.org/ / "Book":http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
 ** "The Rails 3 Way":http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321601661
 ** "Rails 101 - 火速學會 Ruby on Rails":http://rails-101.logdown.com/
+** "Rails Best Practices":http://rails-bestpractices.com/
 ** "RailsCasts":http://railscasts.com - Rails视频教程站
 ** "Ruby on Rails 3 Essential Training":http://www.lynda.com/Ruby-on-Rails-3-tutorials/essential-training/55960-2.html
 ** "ruby-china wiki":http://ruby-china.org/wiki
