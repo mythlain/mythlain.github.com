@@ -46,6 +46,7 @@ h3(#develop). 开发
 
 * *版本控制*
 ** "TortoiseGit":http://code.google.com/p/tortoisegit/ - 实用的Git客户端
+*** "msysgit":http://code.google.com/p/msysgit/ - 安装TortoiseGit前，需要安装这个Git for Windows
 ** "TortoiseSVN":http://tortoisesvn.net/ - 实用的Subversion客户端
 
 * *数据库*
