@@ -42,7 +42,7 @@ h3(#develop). 开发
 * "giggle":http://live.gnome.org/giggle - 一款不错的Git客户端
 * "bluefish":http://bluefish.openoffice.nl - 强大的代码编辑器
 * "Geany":http://www.geany.org/ - 同样强大的代码编辑器
-* "Sublime Text":http://www.sublimetext.com/x - 体验不错的代码编辑器，不过是收费的
+* "Sublime Text":http://wiki.junnan.org/software/sublime-text.html
 * "Aptana":http://www.aptana.com - 基于eclipse的代码编辑器
 
 h3(#other). 其他

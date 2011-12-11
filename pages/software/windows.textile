@@ -30,16 +30,14 @@ h3(#network). 网络
 h3(#develop). 开发
 * *编辑器*
 ** "Notepad++":http://notepad-plus-plus.org/ - 免费强大的代码编辑工具
-** "Sublime Text 2":http://www.sublimetext.com/2 - 强大的代码编辑器，堪比MacOS下的textmate
-*** "Soda Theme":https://github.com/buymeasoda/soda-theme/
-*** "Mongrl Color Theme":https://github.com/czheng/sublime-resources
-*** "Sublime Package Control":http://wbond.net/sublime_packages/package_control - Sublime Text包管理器
-*** "Haml-Sass":https://github.com/n00ge/sublime-text-haml-sass - haml和sass支持
 ** "Intype":http://inotai.com/intype/ - Windows下的textmate替代软件
+** "Sublime Text":http://wiki.junnan.org/software/sublime-text.html
 ** "GVim":http://www.vim.org/
 *** 常用的Color Theme: "ps_color":http://vimcolorschemetest.googlecode.com/svn/colors/ps_color.vim / "rootwater":http://vimcolorschemetest.googlecode.com/svn/colors/rootwater.vim / "Solarized":http://ethanschoonover.com/solarized
 *** "Color Theme Test":http://code.google.com/p/vimcolorschemetest/
 *** "闲耘整理的Vim Wiki":http://wiki.hotoo.me/Vim.html
+*** "缩进提示线":http://www.vim.org/scripts/script.php?script_id=3361
+*** "VIM在线视频教程":http://vimcasts.org/
 ** "SciTe":http://www.scintilla.org/
 ** "EmEditor":http://www.emeditor.com/
 ** "Notepad2":http://www.flos-freeware.ch/notepad2.html - 简单轻便的最适合替代系统notepad的编辑器
@@ -70,6 +68,7 @@ h3(#design). 设计
 h3(#media). 音视频处理
 * "Audition":http://www.adobe.com/products/audition.html - Adobe公司的音频处理软件，前身是CoolEdit
 * "NUENDO":http://www.nuendo.com - 德国STEINBERG公司开发的音乐制作软件
+* "Debut Video Capture Software":http://www.nchsoftware.com/capture/index.html - 摄像头和桌面视频录制
 
 h3(#productivity). 效率
 * "Evernote":http://evernote.com/ - 免费跨平台网络同步型笔记资料管理软件

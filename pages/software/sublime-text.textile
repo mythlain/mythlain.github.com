@@ -1,0 +1,105 @@
+---
+layout: default
+title: Sublime Text - Software
+---
+
+h1. {{ page.title }}
+
+h3. Website
+* "Official Website":http://www.sublimetext.com
+* "Sublime Text 2":http://www.sublimetext.com/2
+* "Twitter":http://twitter.com/#!/sublimehq
+* "Forum":http://www.sublimetext.com/forum/
+* "userecho":http://sublimetext.userecho.com/
+
+h3. Themes
+* "Soda":https://github.com/buymeasoda/soda-theme/
+
+h3. Color Schemes
+* "Tomorrow":https://github.com/ChrisKempson/Tomorrow-Theme
+* "Railscasts":https://github.com/ryanb/textmate-themes
+* "Mongrl":https://github.com/czheng/sublime-resources
+
+h3. Packages
+* "Sublime Package Control":http://wbond.net/sublime_packages/package_control - Sublime Text包管理器
+* "Packages by Will Bond":http://wbond.net/sublime_packages/
+* "Haml-Sass":https://github.com/n00ge/sublime-text-haml-sass - haml和sass支持
+
+h3. Articles
+* "Sublime Text 2 Tips and Tricks":http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
+* "Sublime Text 2 入门及技巧":http://lucifr.com/139225/sublime-text-2-tricks-and-tips/
+* "ZenCoding in Sublime Text 2":http://lucifr.com/139231/zencoding-in-sublime-text-2/
+* "Sublime Text 2 实用快捷键[Mac OS X]":http://lucifr.com/139235/sublime-text-2-useful-shortcuts/
+* "Sublime Text 2 使用小记":http://readful.com/post/9774110738/sublime-text-2
+
+h3. Config
+
+* Global.sublime-settings
+
+bc. {
+  "theme": "Soda Light.sublime-theme",
+  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".bundle", ".sass-cache", "index"],
+  "file_exclude_patterns": [".gitkeep, .DS_Store"],
+  "hot_exit": true,
+  "remember_open_files": true,
+  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
+  "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db"],
+  "binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip"],
+  "scroll_speed": 1.0,
+  "tree_animation_enabled": false,
+  "show_tab_close_buttons": false,
+  "highlight_modified_tabs": false,
+  "open_files_in_new_window": true,
+  "close_windows_when_empty": false,
+  "use_simple_full_screen": true,
+  "overlay_scroll_bars": "system",
+  "ignored_packages": ["Vintage"]
+}
+
+* Base File.sublime-settings
+
+bc. {
+  "color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night.tmTheme",
+  "default_line_ending": "unix",
+  "detect_indentation": true,
+  "font_face": "Microsoft YaHei Mono",//"Monaco",
+  "font_size": 11,
+  "gutter": true,
+  "line_numbers": true,
+  "line_padding_bottom": 6,
+  "scroll_past_end": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "word_wrap": false,
+  "wrap_width": "auto",
+  "save_on_focus_lost": true
+}
+
+* Default(Windows).sublime-keymap
+
+bc. [
+  { "keys": ["alt+/"], "command": "auto_complete" },
+  { "keys": ["ctrl+'"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    { "keys": ["ctrl+;"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+    { "keys": ["ctrl+shift+,"], "command": "move_to", "args": {"to": "bol", "extend": true} },
+    { "keys": ["ctrl+shift+."], "command": "move_to", "args": {"to": "eol", "extend": true} },
+    { "keys": ["f4"], "command": "goto_python_definition"},
+  { "keys": ["super+alt+r"], "command": "python_refactor_rename"},
+  { "keys": ["super+y"], "command": "python_get_documentation"},
+  {
+    "keys": [
+      "#"
+    ],
+    "command": "insert_snippet",
+    "args": {
+      "contents": "#{${1:$TM_SELECTED_TEXT}}"
+    },
+    "context": [
+      {
+        "key": "selector",
+        "operator": "equal",
+        "operand": "(string.quoted.double.ruby|string.interpolated.ruby) - string source"
+      }
+    ]
+  }
+]

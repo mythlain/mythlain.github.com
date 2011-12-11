@@ -18,6 +18,10 @@ h3. Frameworks
 * "Laravel":http://laravel.com/ - A Clean And Classy PHP Framework
 * "Slim":http://www.slimframework.com/ - a PHP 5 Micro Framework
 
+h3. Template Engine
+* "Twig":http://twig.sensiolabs.org/
+* "Smarty":http://www.smarty.net/
+
 h3. CMS
 * "WordPress":http://wordpress.org/
 * "TextPattern":http://textpattern.com/

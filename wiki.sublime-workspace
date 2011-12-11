@@ -15,15 +15,31 @@
 			"file": "pages/software/macos.textile",
 			"settings":
 			{
-				"buffer_size": 5395,
+				"buffer_size": 5513,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pages/development-design/ruby.textile",
+			"file": "pages/software/windows.textile",
 			"settings":
 			{
-				"buffer_size": 6323,
+				"buffer_size": 4340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/software/sublime-text.textile",
+			"settings":
+			{
+				"buffer_size": 3738,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 940,
 				"line_ending": "Unix"
 			}
 		}
@@ -84,6 +100,9 @@
 	},
 	"file_history":
 	[
+		"/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
+		"/D/Program Files/Sublime Text 2/Data/Packages/Default/Global.sublime-settings",
+		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/windows.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/web-front-end.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/android.textile",
@@ -91,7 +110,6 @@
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/linux.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/macos.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-notes.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/ruby.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
@@ -104,7 +122,6 @@
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_site/2011/11/17/the-ruby-programming-language-reading-notes.html",
 		"//192.168.1.6/workspace/jonaslam.github.com/assets/waypoints.min.js",
-		"/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Global.sublime-settings",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Textile.sublime-settings",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-23-install-nginx-php5-mysql-on-ubuntu-server.textile",
@@ -138,7 +155,6 @@
 		"//192.168.1.6/workspace/wiki.junnan.org/_posts/2011-11-17-the-ruby-programming-language-reading-notes.textile",
 		"//192.168.1.6/workspace/wiki.junnan.org/css/style.css",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/software/macos.textile",
-		"/D/Program Files/Sublime Text 2/Data/Packages/Default/Global.sublime-settings",
 		"//192.168.1.6/workspace/wiki.junnan.org/pages/other/articles.html",
 		"//192.168.1.6/workspace/wiki.junnan.org/index.markdown",
 		"//192.168.1.6/workspace/wiki.junnan.org/index.textile",
@@ -325,7 +341,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -333,15 +349,15 @@
 					"file": "pages/software/macos.textile",
 					"settings":
 					{
-						"buffer_size": 5395,
+						"buffer_size": 5513,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4635,
-								4635
+								1797,
+								1797
 							]
 						],
 						"settings":
@@ -349,33 +365,85 @@
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2964.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "pages/development-design/ruby.textile",
+					"file": "pages/software/windows.textile",
 					"settings":
 					{
-						"buffer_size": 6323,
+						"buffer_size": 4340,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4428,
-								4428
+								1291,
+								1291
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Textile/Textile.tmLanguage"
 						},
-						"translation.x": 427.0,
-						"translation.y": 1560.0,
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/software/sublime-text.textile",
+					"settings":
+					{
+						"buffer_size": 3738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								573,
+								573
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								940,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -429,6 +497,14 @@
 		"selected_items":
 		[
 			[
+				"2011",
+				"_posts/2011-11-22-linux-command.textile"
+			],
+			[
+				"win",
+				"pages/software/windows.textile"
+			],
+			[
 				"window",
 				"pages/software/windows.textile"
 			],
@@ -477,16 +553,20 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"//192.168.1.6/workspace/yinse/yinse.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 337.0,
 	"status_bar_visible": true
 }

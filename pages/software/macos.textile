@@ -36,6 +36,7 @@ h3(#commonly-used). 常用
 * "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
 
 h3(#entertainment). 媒体
+* "Enqueue":http://www.enqueueapp.com/
 * "Vox":http://voxapp.didgeroo.com/ - 简洁小巧的音乐播放器
 * "MplayerX":http://mplayerx.org/ - 强大的视频播放器
 * "StreamToMe":http://projectswithlove.com/streamtome/ - 服务端(Windows/MacOS)实现实时转码电影为流媒体，供远程客户端在线观看
@@ -51,6 +52,7 @@ h3(#network). 网络
 * "Filezilla":http://filezilla-project.org/ - 免费FTP软件（客户端和服务端）
 * "Cyberduck":http://lightcss.com/mac-software-collect/ - 免费的FTP客户端软件
 * "ProxyCap":http://www.proxycap.com/ - 可以让不支持代理的程序支持代理
+* "Proxifier":http://www.proxifier.com/mac_download.htm - 同上
 * "Mint":http://uedidea.com/mint/ - 新浪客户端
 * "Private Eye":http://radiosilenceapp.com/private-eye - 实时网络连接监控工具
 * "TeamViewer":http://www.teamviewer.com - 远程控制工具
@@ -63,6 +65,7 @@ h3(#development). 开发
 ** "MacVim":http://code.google.com/p/macvim/
 ** "AppCode":http://www.jetbrains.com/objc/ - an Objective-C IDE That Makes a Defference
 ** "TextMate":http://macromates.com/ - 代码编辑工具
+** "Sublime Text":http://wiki.junnan.org/software/sublime-text.html
 ** "Coda":http://www.panic.com/coda/ - 支持FTP/SFTP等连接方式的代码编辑工具
 *** "Tabster":http://code.google.com/p/tabsterforcoda/ - 能够使Coda支持多行缩进的插件
 ** "BBEdit":http://www.barebones.com/products/bbedit/ - BBEdit is the leading professional HTML and text editor for the Macintosh. 
@@ -130,3 +133,4 @@ h3(#system). 系统工具
 * "Mactracker":http://mactracker.ca/ - 提供当前Mac的所有软硬件信息
 * "Gas Mask":http://code.google.com/p/gmask/ - 方便实用的hosts文件管理工具
 * "cdto":https://code.google.com/p/cdto/ - 可以在Finder右上角加个Terminal图标，方便在当前路径打开控制台
+* "Day-O":http://www.shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock
