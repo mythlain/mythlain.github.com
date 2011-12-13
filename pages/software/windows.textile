@@ -23,7 +23,7 @@ h3(#network). 网络
 * "Tunnelier":http://www.bitvise.com/tunnelier - 实用的SSH客户端软件，支持端口转发
 * "Putty":http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html - 小巧绿色实用的ssh客户端工具
 * "KiTTY":http://www.9bis.net/kitty/ - putty的分支，比putty用起来更方便，配置文件保存在文件中
-* "Fiddler":http://www.fiddler2.com/fiddler2/ - 实用的web调试代理工具
+* "Fiddler":http://www.fiddler2.com/fiddler2/ - 实用的http调试代理工具
 * "ClipGrab":http://clipgrab.de/en - 视频下载工具，支持代理
 * "Proxifier":http://www.proxifier.com - 让不支持代理服务器的程序使用代理
 
@@ -46,6 +46,7 @@ h3(#develop). 开发
 
 * *版本控制*
 ** "TortoiseGit":http://code.google.com/p/tortoisegit/ - 实用的Git客户端
+*** "msysgit":http://code.google.com/p/msysgit/ - 安装TortoiseGit前，需要安装这个Git for Windows
 ** "TortoiseSVN":http://tortoisesvn.net/ - 实用的Subversion客户端
 
 * *数据库*

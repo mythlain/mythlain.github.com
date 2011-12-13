@@ -2,3 +2,6 @@ _site/*
 wiki.itProject
 .DS_Store
 run.sh
+wiki_tmproject.tmproj
+wiki.sublime-project
+wiki.sublime-workspace

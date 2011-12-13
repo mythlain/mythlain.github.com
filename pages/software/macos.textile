@@ -55,11 +55,11 @@ h3(#network). 网络
 * "Cyberduck":http://lightcss.com/mac-software-collect/ - 免费的FTP客户端软件
 * "ProxyCap":http://www.proxycap.com/ - 可以让不支持代理的程序支持代理
 * "Proxifier":http://www.proxifier.com/mac_download.htm - 同上
+* "Charles":http://www.charlesproxy.com/ - 类似于Windows下fiddler的http调试工具
 * "Mint":http://uedidea.com/mint/ - 新浪客户端
 * "Private Eye":http://radiosilenceapp.com/private-eye - 实时网络连接监控工具
 * "TeamViewer":http://www.teamviewer.com - 远程控制工具
 * "Reeder":http://reederapp.com/ - RSS阅读器
-* "Charles":http://www.charlesproxy.com/ - Web代理调试工具
 
 h3(#development). 开发
 
@@ -126,6 +126,7 @@ h3(#productivity). 效率
 
 h3(#system). 系统工具
 * "TotalFinder":http://totalfinder.binaryage.com/ - 增强型文件管理器
+* "PathFinder":http://cocoatech.com/ - 同上
 * "HyperDock":http://hyperdock.bahoom.com/ - 让Dock程序显示预览窗口
 * "Steermouse":http://plentycom.jp/steermouse/ - 鼠标调整工具
 * "LaunchBar":http://www.obdev.at/products/launchbar - 程序启动管理工具

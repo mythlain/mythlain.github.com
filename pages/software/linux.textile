@@ -22,11 +22,13 @@ h3. 桌面环境
 
 h3(#misc). 常用
 * "NeverNote":http://nevernote.sourceforge.net/ - linux下的evernote客户端
+* "Audacity":http://audacity.sourceforge.net - 音频编辑软件
 
 h3(#system). 系统
 * "ubuntu-tweak":http://ubuntu-tweak.com/
 * "MyUnity":https://launchpad.net/myunity - 简易的Unity Tweak 工具
 * "Terminator":http://www.tenshu.net/p/terminator.html - 可以分割多窗口的终端程序
+* "Marlin":https://launchpad.net/marlin - 轻量级的文件浏览器，有点像Mac OS下的Finder
 
 h3(#network). 网络
 * "multiget":http://sourceforge.net/projects/multiget/ - 简洁的多线程下载工具
