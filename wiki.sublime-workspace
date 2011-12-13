@@ -12,34 +12,10 @@
 	"buffers":
 	[
 		{
-			"file": "pages/software/macos.textile",
+			"file": "pages/other/references.textile",
 			"settings":
 			{
-				"buffer_size": 5513,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/software/windows.textile",
-			"settings":
-			{
-				"buffer_size": 4340,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pages/software/sublime-text.textile",
-			"settings":
-			{
-				"buffer_size": 3738,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
-			"settings":
-			{
-				"buffer_size": 940,
+				"buffer_size": 496,
 				"line_ending": "Unix"
 			}
 		}
@@ -100,21 +76,22 @@
 	},
 	"file_history":
 	[
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/php.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/macos.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/sublime-text.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/linux.textile",
+		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
+		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/windows.textile",
 		"/D/Program Files/Sublime Text 2/Data/Packages/User/Base File.sublime-settings",
 		"/D/Program Files/Sublime Text 2/Data/Packages/Default/Global.sublime-settings",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-22-linux-command.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/windows.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/web-front-end.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/android.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/objectivec.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/linux.textile",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/software/macos.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-notes.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/ruby.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/assets/style.css",
-		"//192.168.1.6/workspace/jonaslam.github.com/_layouts/default.html",
-		"//192.168.1.6/workspace/jonaslam.github.com/pages/development-design/php.textile",
 		"//192.168.1.6/workspace/jonaslam.github.com/push.sh",
 		"//192.168.1.6/workspace/jonaslam.github.com/run.sh",
 		"//192.168.1.6/workspace/jonaslam.github.com/assets/common.js",
@@ -226,8 +203,7 @@
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/actionscript.textile",
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/database.textile",
 		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/front-end.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/python.textile",
-		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/css.textile"
+		"/D/workspaces/_webs/junnan.org/www/bindiry/pages/programming-language/python.textile"
 	],
 	"find":
 	{
@@ -341,106 +317,28 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pages/software/macos.textile",
+					"file": "pages/other/references.textile",
 					"settings":
 					{
-						"buffer_size": 5513,
+						"buffer_size": 496,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1797,
-								1797
+								496,
+								496
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pages/software/windows.textile",
-					"settings":
-					{
-						"buffer_size": 4340,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1291,
-								1291
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 648.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pages/software/sublime-text.textile",
-					"settings":
-					{
-						"buffer_size": 3738,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								573,
-								573
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 288.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/D/Program Files/Sublime Text 2/Data/Packages/User/Default (Windows).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 940,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								940,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -497,15 +395,39 @@
 		"selected_items":
 		[
 			[
+				"sublime",
+				"pages/software/sublime-text.textile"
+			],
+			[
+				"lin",
+				"pages/software/linux.textile"
+			],
+			[
+				"window",
+				"pages/software/windows.textile"
+			],
+			[
+				"defa",
+				"_layouts/default.html"
+			],
+			[
+				"mac",
+				"pages/software/macos.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
+				"pre",
+				"pages/other/references.textile"
+			],
+			[
 				"2011",
 				"_posts/2011-11-22-linux-command.textile"
 			],
 			[
 				"win",
-				"pages/software/windows.textile"
-			],
-			[
-				"window",
 				"pages/software/windows.textile"
 			],
 			[
@@ -527,14 +449,6 @@
 			[
 				"ref",
 				"pages/other/references.textile"
-			],
-			[
-				"php",
-				"pages/development-design/php.textile"
-			],
-			[
-				"mac",
-				"pages/software/macos.textile"
 			],
 			[
 				"windw",

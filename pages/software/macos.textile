@@ -34,6 +34,7 @@ h3(#commonly-used). 常用
 * "Brew":https://github.com/mxcl/homebrew - 软件包管理新秀
 * "MenuMeters":http://www.ragingmenace.com/software/menumeters - 在托盘栏显示系统硬件信息的工具
 * "CHM View":http://itunes.apple.com/us/app/chm-view/id449814591?mt=12 - 查看chm文件
+* "Changes":http://connectedflow.com/ - 文件、目录对比工具
 
 h3(#entertainment). 媒体
 * "Enqueue":http://www.enqueueapp.com/
@@ -58,6 +59,7 @@ h3(#network). 网络
 * "Private Eye":http://radiosilenceapp.com/private-eye - 实时网络连接监控工具
 * "TeamViewer":http://www.teamviewer.com - 远程控制工具
 * "Reeder":http://reederapp.com/ - RSS阅读器
+* "Charles":http://www.charlesproxy.com/ - Web代理调试工具
 
 h3(#development). 开发
 
@@ -77,6 +79,7 @@ h3(#development). 开发
 ** "Espresso":http://macrabbit.com/espresso/ 前段web集成开发环境
 ** "0xED":http://www.suavetech.com/0xed/0xed.html - 16进制编辑器
 ** "Mou":http://mouapp.com/ - markdown编辑器
+** "CssEdit":http://macrabbit.com/cssedit/ - 完美的CSS编辑器
 
 * *(#version)版本管理*
 ** *(#svn)SVN*
@@ -98,6 +101,8 @@ h3(#development). 开发
 
 * *(#server)服务器软件*
 ** "XAMPP for Mac":http://www.apachefriends.org/en/xampp-macosx.html - 方便搭建MAMP环境
+** "Querious":http://www.araelium.com/querious/ - MySQL管理工具
+** "Sequel Pro":http://www.sequelpro.com/ - 同上，免费
 
 * *(#game)游戏相关*
 ** "stencyl":http://www.stencyl.com/ - 傻瓜游戏制作工具
@@ -110,6 +115,8 @@ h3(#design). 设计
 * "Skitch":http://skitch.com/ - 实用免费的图片编辑器
 * "TexturePacker":http://www.texturepacker.com/ - 一款跨平台的SpriteSheet制作软件
 * "Pochade":http://fuelcollective.com/pochade - 拾色器
+* "Layers":http://layersapp.com/index.html - 截图工具，支持将截取的图片分层保存
+* "XScope":http://iconfactory.com/software/xscope - 测量、排版工具
 
 h3(#productivity). 效率
 * "Alfred":http://www.alfredapp.com/ - 替换系统Spotlight的免费软件，更美观更强大
