@@ -47,5 +47,8 @@ h3(#develop). 开发
 * "Sublime Text":http://wiki.junnan.org/software/sublime-text.html
 * "Aptana":http://www.aptana.com - 基于eclipse的代码编辑器
 
+h3(#server). 服务器
+* "LNMP":http://lnmp.org/ - centos/redhat、debian/ubuntu下(Nginx、MySQL、PHP、phpMyAdmin)生产环境部署脚本
+
 h3(#other). 其他
 * "virtualbox":http://download.virtualbox.org/virtualbox - 虚拟机

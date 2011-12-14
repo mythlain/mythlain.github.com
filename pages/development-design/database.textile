@@ -27,6 +27,7 @@ h3. NoSQL Database
 ** "Redis":http://redis.io/ - advanced key-value store.
 ** "MemcacheDB":http://memcachedb.org/
 ** "Couchbase":http://www.couchbase.org/
+** "Cassandra":http://cassandra.apache.org/
 
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
