@@ -12,7 +12,7 @@ h3. IDE & Editor
 * "NetBeans":http://netbeans.org/
 * "VIM":http://www.vim.org/
 * "Emacs":http://www.gnu.org/software/emacs/
-* "Sublime Text 2":http://www.sublimetext.com/2 - 强大的代码编辑器，堪比MacOS下的textmate
+* "Sublime Text 2":/pages/software/sublime-text.html - 强大的代码编辑器，堪比MacOS下的textmate
 
 h3. Web Framework
 * "CheerPy":http://www.cherrypy.org/
@@ -59,6 +59,7 @@ h3. Packages & Utility Class
 ** "Unofficial Windows Binaries for Python Extension Packages":http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 h3. Other
+* "bpython":http://bpython-interpreter.org/ - 支持语法高亮的控制台
 * "APNS Python Wrapper":http://code.google.com/p/apns-python-wrapper/ - Python wrapper for Apple Push Notification Service. 
 * "Pocoo":http://www.pocoo.org - The Pocoo Team consists of people from the Python community that are working under one umbrella on various Python libraries and applications.
 

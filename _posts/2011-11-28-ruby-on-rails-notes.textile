@@ -12,7 +12,7 @@ h2. 命令
 bc. # 建立
 rails g migration [migration_name]
 # 执行
-bundle exec rake db:migrate
+rake db:migrate
 
 * *与Migration相关的Rake命令*
 ** rake db:create 按照目前的 RAILS_ENV 环境建立数据库
@@ -25,6 +25,13 @@ bundle exec rake db:migrate
 ** rake db:migrate:down VERSION=20080906120000 回滚指定版本的Migration
 ** rake db:version 当前数据库的Migration版本
 ** rake db:seed 执行 db/seeds.rb 载入种子数据
+
+h2. 配置
+
+* 安装Gem时不安装doc
+
+bc. # 修改~/.gemrc，加入
+gem: --no-ri --no-rdoc
 
 h2. 问题
 

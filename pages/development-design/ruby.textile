@@ -29,6 +29,8 @@ h3(#website). Web Site
 * "RailsTips":http://railstips.org
 
 h3(#tools). Tools
+* "RVM":http://beginrescueend.com/ - Ruby版本管理器
+* "Pow":http://pow.cx/ - 37signals开发的网页服务器
 * "RubyInstaller":http://rubyinstaller.org - The easy way to install Ruby on Windows
 * "RailsInstaller":http://railsinstaller.org/ - windows下的一键安装包
 * "errbit":https://github.com/errbit/errbit - Rails日志捕捉工具，支持Hoptoad API
@@ -50,7 +52,7 @@ h3(#gems). Gems
 * will_paginate: "Github":https://github.com/mislav/will_paginate/wiki - 实现分页
 * kaminari: "Github":https://github.com/amatsuda/kaminari - 同上
 * paperclip: "Github":https://github.com/thoughtbot/paperclip - 实现上传
-* carrierwave: "Github":https://github.com/jnicklas/carrierwave - 同上
+* carrierwave: "Github":https://github.com/jnicklas/carrierwave - 同上，原生支持gridfs
 * wice_grid: "Official Website":http://leikind.org/wicegrid / "Github":http://leikind.org/pages/wicegrid - 实现表格相关功能
 * thinking-sphinx: "Github":http://freelancing-god.github.com/ts/en/ - 实现基于Sphinx的全文搜索
 * rails-settings-cached: "Github":https://github.com/huacnlee/rails-settings-cached - 将配置信息写入数据库并缓存
@@ -73,12 +75,17 @@ h3(#gems). Gems
 * sunspot_rails: "Github":https://github.com/outoftime/sunspot/tree/master/sunspot_rails/
 * sunspot_mongoid: "Github":https://github.com/jugyo/sunspot_mongoid - A Sunspot wrapper for Mongoid.
 * meta_search: "Official Website":http://erniemiller.org/projects/metasearch/ / "Github":https://github.com/ernie/meta_search - 实现复杂组合查询
+* awesome_print: "Github":https://github.com/michaeldv/awesome_print - 格式化输出ruby对象
+* wirble: "Github":https://github.com/blackwinter/wirble - 增强irb，加入历史，语法高亮等功能
+* hirb: "Official Website":http://tagaholic.me/hirb/ / "Github":https://github.com/cldwalker/hirb - 格式化数据
+* richrc: "Github":https://github.com/miaout17/richrc / "Article":http://blog.miaout17.net/2011/02/13/richrc-rails3-customization-hirb-wirble/ - 在rails3中不用修改Gamfile，实现irb格式化和高亮语法
 
 h3(#references). References
 * *(#references_ruby)Ruby*
 ** "Ruby使用笔记":http://apidock.com/ruby
 ** "Learn Ruby The Hard Way":http://ruby.learncodethehardway.org / "繁体版":http://lrthw.github.com/
 ** "Ruby-Doc.org":http://www.ruby-doc.org/
+** "RubyDoc":http://rubydoc.info/
 ** "Ruby Monk":http://rubymonk.com/ - An Interactive Platform That Helps You Learn Ruby
 * *(#references_rails)Rails*
 ** "如何从零开始学会 Ruby on Rails - 李华顺":http://huacnlee.com/blog/how-to-start-learning-ruby-on-rails
@@ -105,3 +112,4 @@ h3(#webapps). Web Apps
 
 h3(#articles). Articles
 * "如何在Mac下快速部署 Nginx + Passenger + Rails":http://lvguoning.com/blog/2011/11/27/mac-nginx-passenger-rails/
+* "十個 Ruby Web Developer 應該熟悉的工具":http://blog.xdite.net/posts/2011/10/09/10-ruby-developer-must-have-tools/

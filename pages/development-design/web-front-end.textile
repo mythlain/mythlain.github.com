@@ -20,6 +20,10 @@ h3. CSS
 * *Tools*
 ** "StyleBot":http://stylebot.me/ - Chrome下的可视化CSS编辑器，功能强大
 ** "jsFiddle":http://jsfiddle.net/ - 在线调试前段开发工具
+** "CSS Lint":http://csslint.net/ - 检测与评估CSS代码
+** "CSS Compressor":http://www.cssdrive.com/index.php/main/csscompressor/ - 压缩CSS代码
+** "ProCSSor":http://procssor.com/ - 优化CSS代码，使其轻量且易读
+
 
 h3. Javascript
 
@@ -36,6 +40,7 @@ h3. Javascript
 ** "Waypoints":http://imakewebthings.github.com/jquery-waypoints/ - 触发页面滚动事件的小插件，很实用
 ** "Topup":http://gettopup.com - 图片显示插件
 ** "UItoTop":http://lab.mattvarone.com/projects/jquery/totop/ - 回到页面顶部插件
+** "Tokeninput":http://loopj.com/jquery-tokeninput/ - 文本框即时搜索列表
 
 * *Mobile Web Framework*
 ** "LungoJS":http://www.lungojs.com/

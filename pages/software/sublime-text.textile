@@ -19,6 +19,7 @@ h3. Color Schemes
 * "Tomorrow":https://github.com/ChrisKempson/Tomorrow-Theme
 * "Railscasts":https://github.com/ryanb/textmate-themes
 * "Mongrl":https://github.com/czheng/sublime-resources
+* "Solarized":http://ethanschoonover.com/solarized
 
 h3. Packages
 * "Sublime Package Control":http://wbond.net/sublime_packages/package_control - Sublime Text包管理器

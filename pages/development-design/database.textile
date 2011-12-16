@@ -25,6 +25,7 @@ h3. NoSQL Database
 * **Key-Value / Tuple Store**
 ** "LevelDB":http://code.google.com/p/leveldb/ - Google开发的速度飞快的数据库键值存储引擎，可按照字符串键值顺序映射。
 ** "Redis":http://redis.io/ - advanced key-value store.
+*** "Redis命令参考简体中文版":http://redis.readthedocs.org/en/2.4/index.html
 ** "MemcacheDB":http://memcachedb.org/
 ** "Couchbase":http://www.couchbase.org/
 ** "Cassandra":http://cassandra.apache.org/
